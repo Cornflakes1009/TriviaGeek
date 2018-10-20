@@ -5,6 +5,13 @@
 //  Created by Harold on 10/20/18.
 //  Copyright © 2018 harold. All rights reserved.
 //
+extension String
+{
+    func trim() -> String
+    {
+        return self.trimmingCharacters(in: NSCharacterSet.whitespaces)
+    }
+}
 
 import UIKit
 

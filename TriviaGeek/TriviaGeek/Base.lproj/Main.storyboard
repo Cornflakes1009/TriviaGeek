@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13122.16" systemVersion="17A277" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13104.12"/>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -9,16 +13,126 @@
         <!--View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="TriviaGeek" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Create Your Teams" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="K81-uv-jgB">
+                                <rect key="frame" x="16" y="20" width="343" height="50.5"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="42"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Enter team name" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="xFn-zh-Z2X">
+                                <rect key="frame" x="16" y="78.5" width="343" height="30"/>
+                                <nil key="textColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="E4f-TE-muW">
+                                <rect key="frame" x="16" y="158.5" width="343" height="30"/>
+                                <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <state key="normal" title="Add Team">
+                                    <color key="titleColor" red="0.98209116969999999" green="1" blue="0.97026466879999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                        <integer key="value" value="10"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <action selector="addTeamBtn:" destination="BYZ-38-t0r" eventType="touchUpInside" id="W4Q-zc-mlx"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fYu-X3-8b4">
+                                <rect key="frame" x="16" y="233" width="343" height="0.0"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1Xx-zT-tYK">
+                                <rect key="frame" x="16" y="236" width="343" height="0.0"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Oeg-bq-p0B">
+                                <rect key="frame" x="16" y="239" width="343" height="0.0"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qxi-Nn-Ku1">
+                                <rect key="frame" x="16" y="242" width="343" height="0.0"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Dvw-Gf-z21">
+                                <rect key="frame" x="16" y="603" width="343" height="30"/>
+                                <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <state key="normal" title="Choose Your Categories">
+                                    <color key="titleColor" red="0.98209116969999999" green="1" blue="0.97026466879999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                        <integer key="value" value="10"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <action selector="chooseCategoryBtn:" destination="BYZ-38-t0r" eventType="touchUpInside" id="a2K-rm-JUm"/>
+                                </connections>
+                            </button>
+                        </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="K81-uv-jgB" secondAttribute="trailing" constant="16" id="2Dk-3t-veY"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="E4f-TE-muW" secondAttribute="trailing" constant="16" id="70b-lU-xDA"/>
+                            <constraint firstItem="xFn-zh-Z2X" firstAttribute="top" secondItem="K81-uv-jgB" secondAttribute="bottom" constant="8" id="7lh-Ow-grA"/>
+                            <constraint firstItem="xFn-zh-Z2X" firstAttribute="top" secondItem="K81-uv-jgB" secondAttribute="bottom" constant="8" id="9KN-wO-V6t"/>
+                            <constraint firstItem="Oeg-bq-p0B" firstAttribute="top" secondItem="1Xx-zT-tYK" secondAttribute="bottom" constant="3" id="Bsi-fe-Xf8"/>
+                            <constraint firstItem="K81-uv-jgB" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="Cas-dO-DFp"/>
+                            <constraint firstItem="fYu-X3-8b4" firstAttribute="top" secondItem="E4f-TE-muW" secondAttribute="bottom" constant="44.5" id="DkT-hn-LfD"/>
+                            <constraint firstItem="fYu-X3-8b4" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="Dsc-MC-uBg"/>
+                            <constraint firstItem="1Xx-zT-tYK" firstAttribute="top" secondItem="fYu-X3-8b4" secondAttribute="bottom" constant="3" id="GHV-8L-33g"/>
+                            <constraint firstItem="E4f-TE-muW" firstAttribute="top" secondItem="xFn-zh-Z2X" secondAttribute="bottom" constant="50" id="IBN-yQ-bce"/>
+                            <constraint firstItem="E4f-TE-muW" firstAttribute="top" secondItem="xFn-zh-Z2X" secondAttribute="bottom" constant="50" id="K5r-ph-uT3"/>
+                            <constraint firstItem="1Xx-zT-tYK" firstAttribute="top" secondItem="fYu-X3-8b4" secondAttribute="bottom" constant="3" id="ONh-gr-9sf"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="fYu-X3-8b4" secondAttribute="trailing" constant="16" id="Omf-Fg-95R"/>
+                            <constraint firstItem="1Xx-zT-tYK" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="WVp-sd-tQi"/>
+                            <constraint firstItem="qxi-Nn-Ku1" firstAttribute="top" secondItem="Oeg-bq-p0B" secondAttribute="bottom" constant="3" id="Y8e-Cs-xrz"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="qxi-Nn-Ku1" secondAttribute="trailing" constant="16" id="YKV-72-rsG"/>
+                            <constraint firstItem="E4f-TE-muW" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="YTZ-LC-lqB"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="xFn-zh-Z2X" secondAttribute="trailing" constant="16" id="brN-iO-fS7"/>
+                            <constraint firstItem="Dvw-Gf-z21" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="fNb-cX-USi"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="1Xx-zT-tYK" secondAttribute="trailing" constant="16" id="gSP-19-63Q"/>
+                            <constraint firstItem="qxi-Nn-Ku1" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="gby-wc-oUF"/>
+                            <constraint firstItem="Oeg-bq-p0B" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="mJP-Wz-v6i"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Oeg-bq-p0B" secondAttribute="trailing" constant="16" id="n9Z-d7-PLR"/>
+                            <constraint firstItem="fYu-X3-8b4" firstAttribute="top" secondItem="E4f-TE-muW" secondAttribute="bottom" constant="44.5" id="nO2-Dc-xeJ"/>
+                            <constraint firstItem="Oeg-bq-p0B" firstAttribute="top" secondItem="1Xx-zT-tYK" secondAttribute="bottom" constant="3" id="p5t-Ug-wL0"/>
+                            <constraint firstItem="xFn-zh-Z2X" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="q1a-wc-d9a"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="Dvw-Gf-z21" secondAttribute="bottom" constant="34" id="qcb-Np-isO"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Dvw-Gf-z21" secondAttribute="trailing" constant="16" id="ur7-kc-ab2"/>
+                            <constraint firstItem="qxi-Nn-Ku1" firstAttribute="top" secondItem="Oeg-bq-p0B" secondAttribute="bottom" constant="3" id="yKp-sc-kdn"/>
+                            <constraint firstItem="K81-uv-jgB" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="zBN-QD-2qL"/>
+                        </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
+                    <connections>
+                        <outlet property="addTeamLabel" destination="E4f-TE-muW" id="q3F-A2-qF0"/>
+                        <outlet property="chooseCategoryLabel" destination="Dvw-Gf-z21" id="BEh-3I-wa9"/>
+                        <outlet property="enterTeamName" destination="xFn-zh-Z2X" id="fZo-aM-nwc"/>
+                        <outlet property="teamLabelFour" destination="qxi-Nn-Ku1" id="OKb-GC-s5A"/>
+                        <outlet property="teamLabelOne" destination="fYu-X3-8b4" id="jAF-hq-kNA"/>
+                        <outlet property="teamLabelThree" destination="Oeg-bq-p0B" id="Asp-ra-IAK"/>
+                        <outlet property="teamLabelTwo" destination="1Xx-zT-tYK" id="VBh-T9-qK6"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
+            <point key="canvasLocation" x="136.80000000000001" y="112.89355322338831"/>
         </scene>
     </scenes>
 </document>
