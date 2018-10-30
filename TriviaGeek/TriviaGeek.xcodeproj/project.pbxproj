@@ -19,6 +19,7 @@
 		F22E18FF217BAF0600D0D3CB /* GetHpJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = F22E18FE217BAF0600D0D3CB /* GetHpJSON.swift */; };
 		F22E1901217BB10500D0D3CB /* Questions.swift in Sources */ = {isa = PBXBuildFile; fileRef = F22E1900217BB10500D0D3CB /* Questions.swift */; };
 		F22E1903217BBEBA00D0D3CB /* Teams.swift in Sources */ = {isa = PBXBuildFile; fileRef = F22E1902217BBEBA00D0D3CB /* Teams.swift */; };
+		F2D2F2BB2187DBE40068A44C /* CategoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2D2F2BA2187DBE40068A44C /* CategoryViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		F22E18FE217BAF0600D0D3CB /* GetHpJSON.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetHpJSON.swift; sourceTree = "<group>"; };
 		F22E1900217BB10500D0D3CB /* Questions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Questions.swift; sourceTree = "<group>"; };
 		F22E1902217BBEBA00D0D3CB /* Teams.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Teams.swift; sourceTree = "<group>"; };
+		F2D2F2BA2187DBE40068A44C /* CategoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				F22E18FE217BAF0600D0D3CB /* GetHpJSON.swift */,
 				F22E1900217BB10500D0D3CB /* Questions.swift */,
 				F22E18E7217BAE3000D0D3CB /* Main.storyboard */,
+				F2D2F2BA2187DBE40068A44C /* CategoryViewController.swift */,
 				F22E1902217BBEBA00D0D3CB /* Teams.swift */,
 				F22E18EA217BAE3200D0D3CB /* Assets.xcassets */,
 				F22E18FD217BAE4E00D0D3CB /* Data */,
@@ -172,6 +175,7 @@
 				F22E1903217BBEBA00D0D3CB /* Teams.swift in Sources */,
 				F22E1901217BB10500D0D3CB /* Questions.swift in Sources */,
 				F22E18E4217BAE3000D0D3CB /* AppDelegate.swift in Sources */,
+				F2D2F2BB2187DBE40068A44C /* CategoryViewController.swift in Sources */,
 				F22E18FF217BAF0600D0D3CB /* GetHpJSON.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
