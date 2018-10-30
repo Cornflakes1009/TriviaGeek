@@ -1,1219 +1,2027 @@
 [
     {
+        "category": "Harry Potter",
         "question": "What is Harry's middle name?",
         "answer": "James"
     },
     {
+        "category": "Harry Potter",
         "question": "What color are Dobby's eyes?",
         "answer": "Green"
     },
     {
+        "category": "Harry Potter",
         "question": "Who was the headmaster of Hogwarts before Dumbledore?",
         "answer": "Armando Dippet"
     },
     {
+        "category": "Harry Potter",
         "question": "What are the initials inscribed in fake horcrux locket?",
         "answer": "R.A.B."
     },
     {
+        "category": "Harry Potter",
         "question": "What spell does Lockhart use to wipe memories?",
         "answer": "Obliviate"
     },
     {
+        "category": "Harry Potter",
         "question": "What color is the dragon that Fleur faces in the Triwizard Tournament?",
         "answer": "Green"
     },
     {
+        "category": "Harry Potter",
         "question": "How many real prophecies does Trelawney make in her lifetime?",
         "answer": "2"
     },
     {
+        "category": "Harry Potter",
         "question": "What is the name of the company that Vernon Dursley works for and what do they sell?",
         "answer": "Grunnings and they sell drills"
     },
     {
+        "category": "Harry Potter",
         "question": "What amphibian comes in chocolate form and has about one good jump in it?",
         "answer": "Frog"
     },
     {
+        "category": "Harry Potter",
         "question": "How many real prophecies does Trelawney make in her lifetime?",
         "answer": "2"
     },
     {
+        "category": "Harry Potter",
         "question": "What does Dumbledore find in the Room of Requirement?",
         "answer": "Chamber pots"
     },
     {
+        "category": "Harry Potter",
         "question": "Who is Peeves?",
         "answer": "A poltergeist/Hogwarts poltergeist"
     },
     {
+        "category": "Harry Potter",
         "question": "What is Tom Riddle's mother's maiden name?",
         "answer": "Gaunt"
     },
     {
+        "category": "Harry Potter",
         "question": "What is the name of Dumbledore's phoenix?",
         "answer": "Fawkes"
     },
     {
+        "category": "Harry Potter",
         "question": "How much money do the Weasleys win in the Daily Prophet Galleon Giveaway?",
         "answer": "700"
     },
     {
+        "category": "Harry Potter",
         "question": "What does O.W.L stand for?",
         "answer": "Ordinary Wizarding Level"
     },
     {
+        "category": "Harry Potter",
         "question": "What famous dark wizard did Dumbledore defeat?",
         "answer": "Grindelwald"
     },
     {
+        "category": "Harry Potter",
         "question": "What is the symbol of the Slytherin house?",
         "answer": "A snake"
     },
     {
+        "category": "Harry Potter",
         "question": "At what famous location does the Night Bus drop Harry off at?",
         "answer": "The Leaky Cauldron"
     },
     {
+        "category": "Harry Potter",
         "question": "Which of the Weasleys is a prefect when Harry first goes to Hogwarts?",
         "answer": "Percy"
     },
     {
+        "category": "Harry Potter",
         "question": "What is the symbol of the Gryffindor house?",
         "answer": "A lion"
     },
     {
+        "category": "Harry Potter",
         "question": "What is the symbole of the Hufflepuff house?",
         "answer": "A badger"
     },
     {
+        "category": "Harry Potter",
         "question": "What is the symbol of the Ravenclaw house?",
         "answer": "An eagle"
     },
     {
+        "category": "Harry Potter",
         "question": "How many sickles are in a galleon?",
         "answer": "17"
     },
     {
+        "category": "Harry Potter",
         "question": "How many knuts are in a sickle?",
         "answer": "29"
     },
     {
+        "category": "Harry Potter",
         "question": "Who received a special award at Hogwarts 50 years before Harry attended?",
         "answer": "Tom Riddle"
     },
     {
+        "category": "Harry Potter",
         "question": "How many times was Nearly Headless Nick hit in the neck with a blunt axe?",
         "answer": "45 times"
     },
     {
+        "category": "Harry Potter",
         "question": "What is the make and model of Mr. Weasley's flying car?",
         "answer": "Ford Anglia"
     },
     {
+        "category": "Harry Potter",
         "question": "How many brothers does Ron have?",
         "answer": "5"
     },
     {
+        "category": "Harry Potter",
         "question": "In what vault is the Sorcerors Stone kept?",
         "answer": "713"
     },
     {
+        "category": "Harry Potter",
         "question": "Who invented the headless hat?",
         "answer": "Fred and George Weasley"
     },
     {
+        "category": "Harry Potter",
         "question": "What is Voldemort's father's name?",
         "answer": "Tom Riddle"
     },
     {
+        "category": "Harry Potter",
         "question": "Who is Ginny Weasley's first boyfriend?",
         "answer": "Michael Corner"
     },
     {
+        "category": "Harry Potter",
         "question": "How many galleons doe Fred and George bet on the World Cup?",
         "answer": "37"
     },
     {
+        "category": "Harry Potter",
         "question": "How many chocolate frog cards does Ron estimate he has?",
         "answer": "500"
     },
     {
+        "category": "Harry Potter",
         "question": "What does Ron use to destroy Helga Hufflepuff's cup?",
         "answer": "Basilisk fang"
     },
     {
+        "category": "Harry Potter",
         "question": "How many goal posts are there in Quidditch (both sides together)?",
         "answer": "6"
     },
     {
+        "category": "Harry Potter",
         "question": "What day and month is Harry's birthday?",
         "answer": "July 31st"
     },
     {
+        "category": "Harry Potter",
         "question": "What is the next name in this sequence: Wormtail, Moony, Padfoot, and ____?",
         "answer": "Prongs"
     },
     {
+        "category": "Harry Potter",
         "question": "How did Harry's parents die according to the Dursley's?",
         "answer": "A car crash"
     },
     {
+        "category": "Harry Potter",
         "question": "What is the Durley's address?",
         "answer": "Number 4 Privet Drive"
     },
     {
+        "category": "Harry Potter",
         "question": "How many points is catching the snitch worth?",
         "answer": "150"
     },
     {
+        "category": "Harry Potter",
         "question": "How many points is scoring the Quaffle worth?",
         "answer": "10"
     },
     {
+        "category": "Harry Potter",
         "question": "What town do the Dursley's live in?",
         "answer": "Little Whinging"
     },
     {
+        "category": "Harry Potter",
         "question": "What is the name of Hermione's cat?",
         "answer": "Crookshanks"
     },
     {
+        "category": "Harry Potter",
         "question": "Who is the eldest Weasley sibling?",
         "answer": "Bill or William"
     },
     {
+        "category": "Harry Potter",
         "question": "Who is the youngest Weasley sibling?",
         "answer": "Ginny"
     },
     {
+        "category": "Harry Potter",
         "question": "Who is the leader of Dumbledore's Army?",
         "answer": "Harry"
     },
     {
+        "category": "Harry Potter",
         "question": "What is the name of the headquarters of the Order of the Phoenix?",
         "answer": "Grimmauld Place"
     },
     {
+        "category": "Harry Potter",
         "question": "How much does a 12 week course on apparition cost?",
         "answer": "12 galleons"
     },
     {
+        "category": "Harry Potter",
         "question": "Who replaces Fudge as Minister of Magic?",
         "answer": "Rufus Scrimgeour"
     },
     {
+        "category": "Harry Potter",
         "question": "Who is the headmaster of Durmstrang?",
         "answer": "Igor Karkaroff"
     },
     {
+        "category": "Harry Potter",
         "question": "Who is the headmistress of Beauxbatons academy?",
         "answer": "Madame Maxime"
     },
     {
+        "category": "Harry Potter",
         "question": "What is the incantation for the killing curse?",
         "answer": "Avada kedavra"
     },
     {
+        "category": "Harry Potter",
         "question": "What is the incantation for the levitating charm?",
         "answer": "Wingardium leviosa"
     },
     {
+        "category": "Harry Potter",
         "question": "What is the name of the group of Voldemort's followers?",
         "answer": "Death Eaters"
     },
     {
+        "category": "Harry Potter",
         "question": "How do the students of Durmstrang arrive at Hogwarts?",
         "answer": "By a ship"
     },
     {
+        "category": "Harry Potter",
         "question": "What spell opens the secret passage to Hogmeade behind the status of the one-eyed witch?",
         "answer": "Dissendium"
     },
     {
+        "category": "Harry Potter",
         "question": "What subject is taught by Professor Binns?",
         "answer": "History of Magic"
     },
     {
+        "category": "Harry Potter",
         "question": "Who was the first student to be separated by the Sorting Hat during Harry's first year?",
         "answer": "Lavender Brown"
     },
     {
+        "category": "Harry Potter",
         "question": "How many staircases does Hogwarts have?",
         "answer": "142"
     },
     {
+        "category": "Harry Potter",
         "question": "Which animals sit on the pillars of the gates at Hogwarts?",
         "answer": "Winged boars"
     },
     {
+        "category": "Harry Potter",
         "question": "What is the tallest tower at Hogwarts?",
         "answer": "The astronomy tower"
     },
     {
+        "category": "Harry Potter",
         "question": "What does Professor Flitwick use to decorate his classroom for Christmas?",
         "answer": "Live fairies"
     },
     {
+        "category": "Harry Potter",
         "question": "What prevents boys from entering the girl's dormitory in the Gryffindor tower?",
         "answer": "The staircase turns into a slide"
     },
     {
+        "category": "Harry Potter",
         "question": "What spell turns boggarts into something humorous?",
         "answer": "Riddikulus"
     },
     {
+        "category": "Harry Potter",
         "question": "What is the incantation for the summoning charm?",
         "answer": "Accio"
     },
     {
+        "category": "Harry Potter",
         "question": "What spell does Harry use to try to fill the basin when Dumbledore needs a drink?",
         "answer": "Aguamenti"
     },
     {
+        "category": "Harry Potter",
         "question": "What spell is used to open locked doors?",
         "answer": "Alohomora"
     },
     {
+        "category": "Harry Potter",
         "question": "What is the act of disappearing from one place and reappiring in another called?",
         "answer": "Apparition"
     },
     {
+        "category": "Harry Potter",
         "question": "What number in the series is Harry Potter and the Sorceror's Stone?",
         "answer": "1"
     },
     {
+        "category": "Harry Potter",
         "question": "What number in the series is Harry Potter and the Chamber of Secrets?",
         "answer": "2"
     },
     {
+        "category": "Harry Potter",
         "question": "What number in the series is Harry Potter and the Prisoner of Azkaban?",
         "answer": "3"
     },
     {
+        "category": "Harry Potter",
         "question": "What number in the series is Harry Potter and the Goblet of Fire?",
         "answer": "4"
     },
     {
+        "category": "Harry Potter",
         "question": "What number in the series is Harry Potter and the Order of the Phoenix?",
         "answer": "5"
     },
     {
+        "category": "Harry Potter",
         "question": "What number in the series is Harry Potter and the Half Blood Prince?",
         "answer": "6"
     },
     {
+        "category": "Harry Potter",
         "question": "What number in the series is Harry Potter and the Deathly Hallows?",
         "answer": "7"
     },
     {
+        "category": "Harry Potter",
         "question": "What was the original name of Harry Potter and the Sorceror's Stone?",
         "answer": "Harry Potter and the Philosopher's Stone"
     },
     {
+        "category": "Harry Potter",
         "question": "What does the J and K stand for in J.K. Rowling?",
         "answer": "Joanne Kathleen"
     },
     {
+        "category": "Harry Potter",
         "question": "Who killed Cedric Diggory?",
         "answer": "Wormtail/Peter Pettigrew"
     },
     {
+        "category": "Harry Potter",
         "question": "What is the name of the graveyard where Voldemort was brought back to power?",
         "answer": "Little Hangleton Graveyard"
     },
     {
+        "category": "Harry Potter",
         "question": "Where did Harry's parents live when Voldemort killed them?",
         "answer": "Godrick's Hollow"
     },
     {
+        "category": "Harry Potter",
         "question": "What is the name of the hippogriff that attacked Malfoy?",
         "answer": "Buckbeak"
     },
     {
+        "category": "Harry Potter",
         "question": "What is the top speed of the Firebolt?",
         "answer": "150mph"
     },
     {
+        "category": "Harry Potter",
         "question": "Who sent Harry the Firebolt?",
         "answer": "Sirius Black"
     },
     {
+        "category": "Harry Potter",
         "question": "What is the name of Barty Crouch's former house elf?",
         "answer": "Winky"
     },
     {
+        "category": "Harry Potter",
         "question": "In the movies, which of Mad-Eye Moody's eyes was fake?",
         "answer": "His left"
     },
     {
+        "category": "Harry Potter",
         "question": "In the books, which of Mad-Eye Moody's eyes was fake?",
         "answer": "His right"
     },
     {
+        "category": "Harry Potter",
         "question": "Who gave Harry the Cloak of Invisibility?",
         "answer": "Dumbledore"
     },
     {
+        "category": "Harry Potter",
         "question": "What wood is Harry's wand made from?",
         "answer": "Holly"
     },
     {
+        "category": "Harry Potter",
         "question": "What wood is Voldemort's made from?",
         "answer": "Yew"
     },
     {
+        "category": "Harry Potter",
         "question": "What wood is the Elder Wand made from?",
         "answer": "Elder wood"
     },
     {
+        "category": "Harry Potter",
         "question": "What pulls the Hogwarts carriages?",
         "answer": "Thestrals"
     },
     {
+        "category": "Harry Potter",
         "question": "What is the core of the Elder Wand?",
         "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "Which family did Dobby the free elf formerly serve?",
+        "answer": "The Malfoys"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What family did Kreacher serve?",
+        "answer": "The Blacks"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "Who is Dudley's childhood best friend?",
+        "answer": "Piers Polkiss"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What school does Dudley go to?",
+        "answer": "Smeltings"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What school do the Dursley's say that Harry goes to?",
+        "answer": "St. Brutus's Secure Centre for Incurably Criminal Boys"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What frozen treat do the Dursley's buy Harry at the zoo?",
+        "answer": "A cheap lemon ice pop"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What kind of snake does Harry release at the zoo?",
+        "answer": "Boa constrictor"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "Where does the snake that Harry released at the zoo say it's going?",
+        "answer": "Brazil"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the name of the Weasley's old owl?",
+        "answer": "Errol"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the name of Percy Weasley's owl?",
+        "answer": "Hermes"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What department does Arthur Weasley work in?",
+        "answer": "The Misues of Muggle Artifacts"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the name of the Weasley's home?",
+        "answer": "The Burrow"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is Ron's mother's name?",
+        "answer": "Molly Weasley"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     },
     {
-        "question": "How many real prophecies does Trelawney make in her lifetime?",
-        "answer": "2"
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
+    },
+    {
+        "category": "Harry Potter",
+        "question": "What is the core of the Elder Wand?",
+        "answer": "Thestral hair"
     }
-
 ]
