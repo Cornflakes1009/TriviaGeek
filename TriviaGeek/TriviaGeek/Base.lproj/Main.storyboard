@@ -150,7 +150,7 @@
                                 <rect key="frame" x="16" y="162" width="343" height="50"/>
                                 <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="50" id="NeZ-8I-8h7"/>
+                                    <constraint firstAttribute="height" constant="50" id="xFb-AJ-CXn"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                 <state key="normal" title="Harry Potter">
@@ -161,12 +161,15 @@
                                         <integer key="value" value="10"/>
                                     </userDefinedRuntimeAttribute>
                                 </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <action selector="harryPotterBtnClicked:" destination="eMV-Io-lsf" eventType="touchUpInside" id="9aJ-uF-zyh"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Gqg-lK-bfW">
                                 <rect key="frame" x="16" y="220" width="343" height="50"/>
                                 <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="50" id="xm4-5O-gGR"/>
+                                    <constraint firstAttribute="height" constant="50" id="Ku0-pP-QNG"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                 <state key="normal" title="Game of Thrones">
@@ -177,12 +180,15 @@
                                         <integer key="value" value="10"/>
                                     </userDefinedRuntimeAttribute>
                                 </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <action selector="gameOfThronesBtnClicked:" destination="eMV-Io-lsf" eventType="touchUpInside" id="Je9-NU-1Zr"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="084-S1-47M">
                                 <rect key="frame" x="16" y="278" width="343" height="50"/>
                                 <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="50" id="KK6-bn-wOV"/>
+                                    <constraint firstAttribute="height" constant="50" id="Yeb-hR-BIZ"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                 <state key="normal" title="Star Wars">
@@ -193,18 +199,15 @@
                                         <integer key="value" value="10"/>
                                     </userDefinedRuntimeAttribute>
                                 </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <action selector="starWarsBtnClicked:" destination="eMV-Io-lsf" eventType="touchUpInside" id="BVo-f9-RaA"/>
+                                </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Choose Your Categories" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="MA3-gb-eCT">
-                                <rect key="frame" x="16" y="25" width="343" height="39.5"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="33"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="y83-6y-hZJ">
                                 <rect key="frame" x="16" y="336" width="343" height="50"/>
                                 <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="50" id="msi-tM-rr3"/>
+                                    <constraint firstAttribute="height" constant="50" id="iMq-Bi-ZYp"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                 <state key="normal" title="Comic Book Movies">
@@ -215,35 +218,50 @@
                                         <integer key="value" value="10"/>
                                     </userDefinedRuntimeAttribute>
                                 </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <action selector="comicBookMoviesBtnClicked:" destination="eMV-Io-lsf" eventType="touchUpInside" id="T4U-YL-S2D"/>
+                                </connections>
                             </button>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Choose Category" translatesAutoresizingMaskIntoConstraints="NO" id="Eqe-at-tt7">
+                                <rect key="frame" x="16" y="20" width="343" height="124"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="124" id="EO1-GL-kVs"/>
+                                </constraints>
+                            </imageView>
                         </subviews>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <color key="backgroundColor" cocoaTouchSystemColor="darkTextColor"/>
                         <constraints>
-                            <constraint firstItem="MA3-gb-eCT" firstAttribute="leading" secondItem="jhe-TI-qT4" secondAttribute="leading" constant="16" id="4Ik-lV-O3R"/>
-                            <constraint firstItem="zTL-Iq-srs" firstAttribute="top" secondItem="MA3-gb-eCT" secondAttribute="bottom" constant="97.5" id="6SI-45-ZNr"/>
-                            <constraint firstItem="084-S1-47M" firstAttribute="leading" secondItem="jhe-TI-qT4" secondAttribute="leading" constant="16" id="9yd-R8-K9w"/>
-                            <constraint firstItem="jhe-TI-qT4" firstAttribute="trailing" secondItem="zTL-Iq-srs" secondAttribute="trailing" constant="16" id="BLm-lg-ahu"/>
-                            <constraint firstItem="jhe-TI-qT4" firstAttribute="trailing" secondItem="y83-6y-hZJ" secondAttribute="trailing" constant="16" id="CaG-4H-Vf4"/>
-                            <constraint firstItem="MA3-gb-eCT" firstAttribute="top" secondItem="jhe-TI-qT4" secondAttribute="top" constant="5" id="CgM-bq-7lP"/>
-                            <constraint firstItem="jhe-TI-qT4" firstAttribute="trailing" secondItem="Gqg-lK-bfW" secondAttribute="trailing" constant="16" id="Fr1-6G-bSx"/>
-                            <constraint firstItem="Gqg-lK-bfW" firstAttribute="leading" secondItem="jhe-TI-qT4" secondAttribute="leading" constant="16" id="G8h-yk-WCU"/>
-                            <constraint firstItem="zTL-Iq-srs" firstAttribute="top" secondItem="MA3-gb-eCT" secondAttribute="bottom" constant="97.5" id="Gem-9q-WML"/>
-                            <constraint firstItem="084-S1-47M" firstAttribute="top" secondItem="Gqg-lK-bfW" secondAttribute="bottom" constant="8" id="YKM-RG-jux"/>
-                            <constraint firstItem="zTL-Iq-srs" firstAttribute="leading" secondItem="jhe-TI-qT4" secondAttribute="leading" constant="16" id="ZIy-hR-pqM"/>
-                            <constraint firstItem="jhe-TI-qT4" firstAttribute="trailing" secondItem="zTL-Iq-srs" secondAttribute="trailing" constant="16" id="eyl-5h-87X"/>
-                            <constraint firstItem="zTL-Iq-srs" firstAttribute="leading" secondItem="jhe-TI-qT4" secondAttribute="leading" constant="16" id="geO-Tf-LeU"/>
-                            <constraint firstItem="jhe-TI-qT4" firstAttribute="trailing" secondItem="MA3-gb-eCT" secondAttribute="trailing" constant="16" id="js3-Lh-Gie"/>
-                            <constraint firstItem="y83-6y-hZJ" firstAttribute="leading" secondItem="jhe-TI-qT4" secondAttribute="leading" constant="16" id="l7O-W6-eZF"/>
-                            <constraint firstItem="y83-6y-hZJ" firstAttribute="top" secondItem="084-S1-47M" secondAttribute="bottom" constant="8" id="qNU-VQ-OdZ"/>
-                            <constraint firstItem="Gqg-lK-bfW" firstAttribute="top" secondItem="zTL-Iq-srs" secondAttribute="bottom" constant="8" id="qYo-mn-HhD"/>
-                            <constraint firstItem="jhe-TI-qT4" firstAttribute="trailing" secondItem="084-S1-47M" secondAttribute="trailing" constant="16" id="vKs-Vu-w8a"/>
+                            <constraint firstItem="Gqg-lK-bfW" firstAttribute="leading" secondItem="jhe-TI-qT4" secondAttribute="leading" constant="16" id="1mK-Vc-GDZ"/>
+                            <constraint firstItem="jhe-TI-qT4" firstAttribute="trailing" secondItem="Eqe-at-tt7" secondAttribute="trailing" constant="16" id="6RW-fD-aIf"/>
+                            <constraint firstItem="084-S1-47M" firstAttribute="top" secondItem="Gqg-lK-bfW" secondAttribute="bottom" constant="8" id="ALF-ZJ-sjI"/>
+                            <constraint firstItem="zTL-Iq-srs" firstAttribute="leading" secondItem="jhe-TI-qT4" secondAttribute="leading" constant="16" id="AgB-12-CiS"/>
+                            <constraint firstItem="jhe-TI-qT4" firstAttribute="trailing" secondItem="Gqg-lK-bfW" secondAttribute="trailing" constant="16" id="DjR-pv-FkM"/>
+                            <constraint firstItem="Eqe-at-tt7" firstAttribute="top" secondItem="jhe-TI-qT4" secondAttribute="top" id="DuD-yr-sIh"/>
+                            <constraint firstItem="084-S1-47M" firstAttribute="leading" secondItem="jhe-TI-qT4" secondAttribute="leading" constant="16" id="QYn-Gk-zj7"/>
+                            <constraint firstItem="jhe-TI-qT4" firstAttribute="trailing" secondItem="y83-6y-hZJ" secondAttribute="trailing" constant="16" id="Uga-ty-yj4"/>
+                            <constraint firstItem="jhe-TI-qT4" firstAttribute="trailing" secondItem="zTL-Iq-srs" secondAttribute="trailing" constant="16" id="ZXQ-PM-o14"/>
+                            <constraint firstItem="y83-6y-hZJ" firstAttribute="leading" secondItem="jhe-TI-qT4" secondAttribute="leading" constant="16" id="eiF-AD-ZOb"/>
+                            <constraint firstItem="zTL-Iq-srs" firstAttribute="top" secondItem="Eqe-at-tt7" secondAttribute="bottom" constant="18" id="imE-ch-lfb"/>
+                            <constraint firstItem="jhe-TI-qT4" firstAttribute="trailing" secondItem="084-S1-47M" secondAttribute="trailing" constant="16" id="lJR-dl-mQZ"/>
+                            <constraint firstItem="Eqe-at-tt7" firstAttribute="leading" secondItem="jhe-TI-qT4" secondAttribute="leading" constant="16" id="m9i-GZ-gbf"/>
+                            <constraint firstItem="Gqg-lK-bfW" firstAttribute="top" secondItem="zTL-Iq-srs" secondAttribute="bottom" constant="8" id="tLN-OS-zdS"/>
+                            <constraint firstItem="y83-6y-hZJ" firstAttribute="top" secondItem="084-S1-47M" secondAttribute="bottom" constant="8" id="wbj-yj-QZj"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="jhe-TI-qT4"/>
                     </view>
+                    <connections>
+                        <outlet property="comicBookMoviesCategoryLabel" destination="y83-6y-hZJ" id="VUr-bi-8fq"/>
+                        <outlet property="gameOfThronesCategoryLabel" destination="Gqg-lK-bfW" id="V8O-Go-PpZ"/>
+                        <outlet property="harryPotterCategoryLabel" destination="zTL-Iq-srs" id="4EK-ot-ucT"/>
+                        <outlet property="starWarsCategoryLabel" destination="084-S1-47M" id="jlc-pC-Zsc"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="R3H-KG-jsU" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="837.60000000000002" y="112.89355322338831"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="Choose Category" width="209" height="24"/>
+    </resources>
 </document>

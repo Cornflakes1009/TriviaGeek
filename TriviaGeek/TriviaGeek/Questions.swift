@@ -8,7 +8,6 @@
 
 import Foundation
 
-
 var  questionArr = [Question]()
 
 class Question {

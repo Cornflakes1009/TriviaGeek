@@ -10,26 +10,52 @@ import UIKit
 
 class CategoryViewController: UIViewController {
 
+   
+    @IBOutlet weak var harryPotterCategoryLabel: UIButton!
+    @IBOutlet weak var gameOfThronesCategoryLabel: UIButton!
+    @IBOutlet weak var starWarsCategoryLabel: UIButton!
+    @IBOutlet weak var comicBookMoviesCategoryLabel: UIButton!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-
-        // Do any additional setup after loading the view.
-    }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
     }
     
-
-    /*
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destinationViewController.
-        // Pass the selected object to the new view controller.
+    override func didReceiveMemoryWarning() {
+        super.didReceiveMemoryWarning()
     }
-    */
-
+    @IBAction func harryPotterBtnClicked(_ sender: Any) {
+        
+        if(harryPotterCategoryLabel.backgroundColor == #colorLiteral(red: 0.1215686277, green: 0.01176470611, blue: 0.4235294163, alpha: 1)) {
+            harryPotterCategoryLabel.backgroundColor = #colorLiteral(red: 0, green: 0.4784313725, blue: 1, alpha: 1)
+        } else{
+            harryPotterCategoryLabel.backgroundColor = #colorLiteral(red: 0.1215686277, green: 0.01176470611, blue: 0.4235294163, alpha: 1)
+        }
+    }
+    
+    @IBAction func gameOfThronesBtnClicked(_ sender: Any) {
+        if(gameOfThronesCategoryLabel.backgroundColor == #colorLiteral(red: 0.1215686277, green: 0.01176470611, blue: 0.4235294163, alpha: 1)) {
+            gameOfThronesCategoryLabel.backgroundColor = #colorLiteral(red: 0, green: 0.4784313725, blue: 1, alpha: 1)
+        } else{
+            gameOfThronesCategoryLabel.backgroundColor = #colorLiteral(red: 0.1215686277, green: 0.01176470611, blue: 0.4235294163, alpha: 1)
+        }
+    }
+    
+    @IBAction func starWarsBtnClicked(_ sender: Any) {
+        if(starWarsCategoryLabel.backgroundColor == #colorLiteral(red: 0.1215686277, green: 0.01176470611, blue: 0.4235294163, alpha: 1)) {
+            starWarsCategoryLabel.backgroundColor = #colorLiteral(red: 0, green: 0.4784313725, blue: 1, alpha: 1)
+        } else{
+            starWarsCategoryLabel.backgroundColor = #colorLiteral(red: 0.1215686277, green: 0.01176470611, blue: 0.4235294163, alpha: 1)
+        }
+    }
+    
+    @IBAction func comicBookMoviesBtnClicked(_ sender: Any) {
+        if(comicBookMoviesCategoryLabel.backgroundColor == #colorLiteral(red: 0.1215686277, green: 0.01176470611, blue: 0.4235294163, alpha: 1)) {
+            comicBookMoviesCategoryLabel.backgroundColor = #colorLiteral(red: 0, green: 0.4784313725, blue: 1, alpha: 1)
+        } else{
+            comicBookMoviesCategoryLabel.backgroundColor = #colorLiteral(red: 0.1215686277, green: 0.01176470611, blue: 0.4235294163, alpha: 1)
+        }
+    }
+    
+    
+    
 }
