@@ -23,12 +23,14 @@ func getHpJSON() {
             guard let questionAndAnswer = questionAnswer as? [String: Any] else { return }
             
             // assigning the values in the JSON to local variables
+            guard let category = questionAndAnswer["category"] as? String else { return }
             guard let question = questionAndAnswer["question"] as? String else { return }
             guard let answer = questionAndAnswer["answer"] as? String else { return }
             
             // creating a new instance of the Question object
-            let qa = Question(question: question, answer: answer)
+            let qa = Question(category: category, question: question, answer: answer)
             
+            print(qa.category)
             print(qa.question)
             print(qa.answer)
             
