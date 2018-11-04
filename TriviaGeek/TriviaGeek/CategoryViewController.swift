@@ -7,6 +7,7 @@
 //
 
 import UIKit
+var categoryCount = 0
 
 class CategoryViewController: UIViewController {
     var harryPotterSelected = false
@@ -98,6 +99,19 @@ class CategoryViewController: UIViewController {
     }
     
     @IBAction func submitBtnClicked(_ sender: Any) {
+        if(harryPotterSelected == true) {
+            categoryCount += 1
+        }
+        if(gameOfThronesSelected == true) {
+            categoryCount += 1
+        }
+        if(starWarsSelected == true) {
+            categoryCount += 1
+        }
+        if(comicBookMoviesSelected == true) {
+            categoryCount += 1
+        }
+        
         if(harryPotterSelected == true) {
             // run get HP JSON func
             print("hp selected")

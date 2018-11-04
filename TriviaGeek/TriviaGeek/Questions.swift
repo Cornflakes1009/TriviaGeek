@@ -8,7 +8,9 @@
 
 import Foundation
 
-var  questionArr = [Question]()
+var questionArr = [Question]()
+
+var questionsList = [Question]()
 
 class Question {
     let category: String
