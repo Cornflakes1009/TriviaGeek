@@ -42,8 +42,6 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         chooseCategoryLabel.isEnabled = false
-        getHpJSON()
-        print(questionArr.count)
     }
     
     override func didReceiveMemoryWarning() {

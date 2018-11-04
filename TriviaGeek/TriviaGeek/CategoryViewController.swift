@@ -101,15 +101,16 @@ class CategoryViewController: UIViewController {
         if(harryPotterSelected == true) {
             // run get HP JSON func
             print("hp selected")
+            getJSON(jsonToRead: "harryPotterTriviaQuestions")
         }
         if(gameOfThronesSelected) {
-            print("got selected")
+            getJSON(jsonToRead: "gameOfThronesTriviaQuestions")
         }
         if(starWarsSelected) {
-            print("sw selected")
+            getJSON(jsonToRead: "starWarsTriviaQuestions")
         }
         if(comicBookMoviesSelected) {
-            print("comic book selected")
+            getJSON(jsonToRead: "comicBookMovieTriviaQuestions")
         }
     }
     

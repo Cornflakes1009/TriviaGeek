@@ -9,8 +9,8 @@
 import Foundation
 
 
-func getHpJSON() {
-    guard let path = Bundle.main.path(forResource: "harryPotterTriviaQuestions", ofType: "json") else { return }
+func getJSON(jsonToRead: String) {
+    guard let path = Bundle.main.path(forResource: jsonToRead, ofType: "json") else { return }
     let url = URL(fileURLWithPath: path)
     
     do {
