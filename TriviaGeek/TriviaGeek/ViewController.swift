@@ -29,6 +29,8 @@ class ViewController: UIViewController {
         
         if teams.count >= 2 {
             chooseCategoryLabel.isEnabled = true
+            chooseCategoryLabel.backgroundColor = #colorLiteral(red: 0, green: 0.4784313725, blue: 1, alpha: 1)
+            chooseCategoryLabel.setTitleColor(#colorLiteral(red: 1.0, green: 1.0, blue: 1.0, alpha: 1.0), for: .normal)
         }
         if teams.count == 4 {
             addTeamLabel.isEnabled = false
@@ -42,7 +44,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         chooseCategoryLabel.isEnabled = false
-        
+        chooseCategoryLabel.setTitleColor(#colorLiteral(red: 0.8039215803, green: 0.8039215803, blue: 0.8039215803, alpha: 1), for: .normal)
+        chooseCategoryLabel.backgroundColor = #colorLiteral(red: 0, green: 0, blue: 0.8821885851, alpha: 1)
         
     }
     

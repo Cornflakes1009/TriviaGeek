@@ -44,6 +44,9 @@ class QuestionViewController: UIViewController {
     @IBAction func startTimer(_ sender: Any) {
         runTimer()
         startTimerLabel.isEnabled = false
+        
+        startTimerLabel.setTitleColor(#colorLiteral(red: 0.8039215803, green: 0.8039215803, blue: 0.8039215803, alpha: 1), for: .normal)
+        startTimerLabel.backgroundColor = #colorLiteral(red: 0.5725490451, green: 0, blue: 0.2313725501, alpha: 1)
     }
     
     /*
