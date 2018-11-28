@@ -9,6 +9,12 @@
 import UIKit
 
 class ViewController: UIViewController {
+     // added for dismissing the keyboard when touching outside of the keyboard or text field
+    func touchesBegan(touches: NSSet, withEvent event: UIEvent) {
+        self.enterTeamName.resignFirstResponder()
+    }
+    
+    
 
     @IBOutlet weak var enterTeamName: UITextField!
     @IBOutlet weak var teamLabelOne: UILabel!
@@ -46,6 +52,7 @@ class ViewController: UIViewController {
         chooseCategoryLabel.isEnabled = false
         chooseCategoryLabel.setTitleColor(#colorLiteral(red: 0.8039215803, green: 0.8039215803, blue: 0.8039215803, alpha: 1), for: .normal)
         chooseCategoryLabel.backgroundColor = #colorLiteral(red: 0, green: 0, blue: 0.8821885851, alpha: 1)
+        
         
     }
     

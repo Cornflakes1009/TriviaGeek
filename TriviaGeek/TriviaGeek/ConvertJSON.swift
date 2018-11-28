@@ -38,17 +38,17 @@ func getJSON(jsonToRead: String) {
             
         } // end of the for in loop
         
-        if categoryCount == 2 {
-            for _ in 1...30 {
-                let randomNum = (Int(arc4random_uniform(UInt32(jsonArray.count))) + 1)
-                print(randomNum)
-                questionsList.append(questionArr[randomNum])
-                questionArr.remove(at: randomNum)
-            }
-            print(questionsList)
-            print(questionsList.count)
-            print(questionArr.count)
-        }
+//        if categoryCount == 2 {
+//            for _ in 1...30 {
+//                let randomNum = (Int(arc4random_uniform(UInt32(jsonArray.count))) + 1)
+//                print(randomNum)
+//                questionsList.append(questionArr[randomNum])
+//                questionArr.remove(at: randomNum)
+//            }
+//            print(questionsList)
+//            print(questionsList.count)
+//            print(questionArr.count)
+//        }
         
         
         
