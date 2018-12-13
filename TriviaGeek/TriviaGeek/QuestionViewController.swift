@@ -12,6 +12,7 @@ class QuestionViewController: UIViewController {
 
     @IBOutlet weak var timerLabel: UILabel!
     @IBOutlet weak var startTimerLabel: UIButton!
+    @IBOutlet weak var questionLabel: UILabel!
     
     
     var seconds = 15
@@ -33,7 +34,9 @@ class QuestionViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-
+//        questionLabel.text = questionsList[currentQuestion].question
+        print("Questions array:")
+        
     }
 
     override func didReceiveMemoryWarning() {

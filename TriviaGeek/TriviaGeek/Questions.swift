@@ -8,6 +8,9 @@
 
 import Foundation
 
+// global variable for incrementing through questions
+var currentQuestion = 0
+
 var questionArr = [Question]()
 
 var questionsList = [Question]()

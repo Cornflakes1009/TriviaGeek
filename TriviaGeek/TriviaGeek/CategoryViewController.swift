@@ -40,6 +40,11 @@ class CategoryViewController: UIViewController {
         submitBtnLabel.isEnabled = false
         submitBtnLabel.setTitleColor(#colorLiteral(red: 0.8039215803, green: 0.8039215803, blue: 0.8039215803, alpha: 1), for: .normal)
         submitBtnLabel.backgroundColor = #colorLiteral(red: 0, green: 0, blue: 0.8821885851, alpha: 1)
+        
+        
+        //////// disabling buttons until I get more JSON
+        comicBookMoviesCategoryLabel.isEnabled = false
+        gameOfThronesCategoryLabel.isEnabled = false
     }
     
     override func didReceiveMemoryWarning() {
@@ -113,8 +118,6 @@ class CategoryViewController: UIViewController {
         }
         
         if(harryPotterSelected == true) {
-            // run get HP JSON func
-            print("hp selected")
             getJSON(jsonToRead: "harryPotterTriviaQuestions")
         }
         if(gameOfThronesSelected) {
@@ -126,6 +129,9 @@ class CategoryViewController: UIViewController {
         if(comicBookMoviesSelected) {
             getJSON(jsonToRead: "comicBookMovieTriviaQuestions")
         }
+        
+        
+        
     }
     
     

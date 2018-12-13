@@ -30,30 +30,19 @@ func getJSON(jsonToRead: String) {
             // creating a new instance of the Question object
             let qa = Question(category: category, question: question, answer: answer)
             
-            print(qa.category)
-            print(qa.question)
-            print(qa.answer)
-            
             questionArr.append(qa)
             
         } // end of the for in loop
         
-//        if categoryCount == 2 {
-//            for _ in 1...30 {
-//                let randomNum = (Int(arc4random_uniform(UInt32(jsonArray.count))) + 1)
-//                print(randomNum)
-//                questionsList.append(questionArr[randomNum])
-//                questionArr.remove(at: randomNum)
-//            }
-//            print(questionsList)
-//            print(questionsList.count)
-//            print(questionArr.count)
-//        }
-        
-        
-        
-        
+        // loop for picking 60 random questions from the questions array - this is for balancing the odds of picking random questions. For example, if there are 1000 questions of one category, you have the same odds of getting one of those questions vs a category with only 150 questions
+        for _ in 1...60 {
+            let randomNum = (Int(arc4random_uniform(UInt32(questionArr.count))) + 1)
+            questionsList.append(questionArr[randomNum])
+            questionArr.remove(at: randomNum)
+        }
+
     } catch {
         print(error)
     }
+    print(questionsList.count)
 }

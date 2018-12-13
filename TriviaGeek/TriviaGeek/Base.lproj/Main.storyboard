@@ -396,6 +396,7 @@
                         <viewLayoutGuide key="safeArea" id="cPo-WG-FF9"/>
                     </view>
                     <connections>
+                        <outlet property="questionLabel" destination="Ruq-Tw-apu" id="djm-aI-oFS"/>
                         <outlet property="startTimerLabel" destination="TS0-Gb-xKD" id="ZR5-oT-qCY"/>
                         <outlet property="timerLabel" destination="aeD-vE-isi" id="jSZ-Wn-Blv"/>
                     </connections>
@@ -430,6 +431,23 @@
                                 <color key="textColor" red="0.98209116969999999" green="1" blue="0.97026466879999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6NP-TK-fzh">
+                                <rect key="frame" x="16" y="572" width="343" height="50"/>
+                                <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="50" id="eT9-CG-5Aj"/>
+                                    <constraint firstAttribute="height" constant="50" id="ieq-LA-uvf"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="32"/>
+                                <state key="normal" title="Next Question">
+                                    <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                        <integer key="value" value="10"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" cocoaTouchSystemColor="darkTextColor"/>
                         <constraints>
@@ -439,6 +457,9 @@
                             <constraint firstItem="Tx6-h2-yFQ" firstAttribute="leading" secondItem="eos-jg-Kcq" secondAttribute="leading" constant="16" id="MAO-dD-PaM"/>
                             <constraint firstItem="rbR-4a-Erz" firstAttribute="top" secondItem="eos-jg-Kcq" secondAttribute="top" id="Mmf-HH-BEF"/>
                             <constraint firstItem="eos-jg-Kcq" firstAttribute="trailing" secondItem="Tx6-h2-yFQ" secondAttribute="trailing" constant="16" id="OcF-49-kXA"/>
+                            <constraint firstItem="eos-jg-Kcq" firstAttribute="trailing" secondItem="6NP-TK-fzh" secondAttribute="trailing" constant="16" id="T5v-23-gL6"/>
+                            <constraint firstItem="6NP-TK-fzh" firstAttribute="leading" secondItem="eos-jg-Kcq" secondAttribute="leading" constant="16" id="l33-z7-PRo"/>
+                            <constraint firstItem="eos-jg-Kcq" firstAttribute="bottom" secondItem="6NP-TK-fzh" secondAttribute="bottom" constant="45" id="u17-B5-Fs4"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="eos-jg-Kcq"/>
                     </view>
