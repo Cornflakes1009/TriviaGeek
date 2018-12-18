@@ -130,7 +130,7 @@ class CategoryViewController: UIViewController {
             getJSON(jsonToRead: "comicBookMovieTriviaQuestions")
         }
         
-        
+        performSegue(withIdentifier: "loadQuestionVC", sender: self)
         
     }
     

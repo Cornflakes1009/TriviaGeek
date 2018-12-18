@@ -254,7 +254,6 @@
                                 </userDefinedRuntimeAttributes>
                                 <connections>
                                     <action selector="submitBtnClicked:" destination="eMV-Io-lsf" eventType="touchUpInside" id="ApC-2g-Htg"/>
-                                    <segue destination="xR4-sX-Gnd" kind="presentation" id="cII-I7-YpD"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -287,6 +286,7 @@
                         <outlet property="harryPotterCategoryLabel" destination="zTL-Iq-srs" id="4EK-ot-ucT"/>
                         <outlet property="starWarsCategoryLabel" destination="084-S1-47M" id="jlc-pC-Zsc"/>
                         <outlet property="submitBtnLabel" destination="0vf-3a-PEL" id="yJN-b6-ghs"/>
+                        <segue destination="xR4-sX-Gnd" kind="show" identifier="loadQuestionVC" id="Zrz-l1-KqA"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="R3H-KG-jsU" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -396,6 +396,7 @@
                         <viewLayoutGuide key="safeArea" id="cPo-WG-FF9"/>
                     </view>
                     <connections>
+                        <outlet property="categoryLabel" destination="Wei-0c-sBB" id="20m-fl-atL"/>
                         <outlet property="questionLabel" destination="Ruq-Tw-apu" id="djm-aI-oFS"/>
                         <outlet property="startTimerLabel" destination="TS0-Gb-xKD" id="ZR5-oT-qCY"/>
                         <outlet property="timerLabel" destination="aeD-vE-isi" id="jSZ-Wn-Blv"/>
@@ -403,7 +404,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="paW-7m-FZe" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1431" y="113"/>
+            <point key="canvasLocation" x="1639" y="99"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="mBR-WA-idD">
@@ -466,7 +467,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="WHP-iG-ISV" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2079" y="113"/>
+            <point key="canvasLocation" x="2287" y="99"/>
         </scene>
     </scenes>
     <resources>
