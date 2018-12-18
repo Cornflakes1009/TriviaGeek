@@ -1,14 +1,8 @@
-//
-//  Teams.swift
-//  TriviaGeek
-//
-//  Created by Harold on 10/20/18.
-//  Copyright © 2018 harold. All rights reserved.
-//
-
 import Foundation
 
 var teams = [Team]()
+
+var currentTeam = 0
 
 class Team {
     let teamName: String

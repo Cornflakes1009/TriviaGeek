@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D9292B8E21C886F800065BB9 /* AnswerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9292B8D21C886F800065BB9 /* AnswerViewController.swift */; };
 		F22E18E4217BAE3000D0D3CB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F22E18E3217BAE3000D0D3CB /* AppDelegate.swift */; };
 		F22E18E6217BAE3000D0D3CB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F22E18E5217BAE3000D0D3CB /* ViewController.swift */; };
 		F22E18E9217BAE3000D0D3CB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F22E18E7217BAE3000D0D3CB /* Main.storyboard */; };
@@ -24,6 +25,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D9292B8D21C886F800065BB9 /* AnswerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnswerViewController.swift; sourceTree = "<group>"; };
 		F22E18E0217BAE3000D0D3CB /* TriviaGeek.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TriviaGeek.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F22E18E3217BAE3000D0D3CB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F22E18E5217BAE3000D0D3CB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 				F22E18FE217BAF0600D0D3CB /* ConvertJSON.swift */,
 				F22E1900217BB10500D0D3CB /* Questions.swift */,
 				F22E18E7217BAE3000D0D3CB /* Main.storyboard */,
+				D9292B8D21C886F800065BB9 /* AnswerViewController.swift */,
 				F2D2F2BA2187DBE40068A44C /* CategoryViewController.swift */,
 				F23C52CC218EC4F7005D6BF6 /* QuestionViewController.swift */,
 				F22E18E5217BAE3000D0D3CB /* ViewController.swift */,
@@ -178,6 +181,7 @@
 				F22E1903217BBEBA00D0D3CB /* Teams.swift in Sources */,
 				F23C52CD218EC4F7005D6BF6 /* QuestionViewController.swift in Sources */,
 				F22E1901217BB10500D0D3CB /* Questions.swift in Sources */,
+				D9292B8E21C886F800065BB9 /* AnswerViewController.swift in Sources */,
 				F22E18E4217BAE3000D0D3CB /* AppDelegate.swift in Sources */,
 				F2D2F2BB2187DBE40068A44C /* CategoryViewController.swift in Sources */,
 				F22E18FF217BAF0600D0D3CB /* ConvertJSON.swift in Sources */,
