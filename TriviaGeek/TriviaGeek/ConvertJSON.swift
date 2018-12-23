@@ -1,15 +1,11 @@
-//
-//  GetHpJSON.swift
-//  TriviaGeek
-//
-//  Created by Harold on 10/20/18.
-//  Copyright © 2018 harold. All rights reserved.
-//
-
 import Foundation
 
 
 func getJSON(jsonToRead: String) {
+    // clearing out the questionArr before converting JSON
+//    questionsList = [Question]()
+    questionArr = [Question]()
+    
     guard let path = Bundle.main.path(forResource: jsonToRead, ofType: "json") else { return }
     let url = URL(fileURLWithPath: path)
     
@@ -30,19 +26,21 @@ func getJSON(jsonToRead: String) {
             // creating a new instance of the Question object
             let qa = Question(category: category, question: question, answer: answer)
             
+            // appending the recently converted JSON object to an array of Question objects to pull questions from
             questionArr.append(qa)
             
         } // end of the for in loop
         
         // loop for picking 60 random questions from the questions array - this is for balancing the odds of picking random questions. For example, if there are 1000 questions of one category, you have the same odds of getting one of those questions vs a category with only 150 questions
         for _ in 1...60 {
-            let randomNum = (Int(arc4random_uniform(UInt32(questionArr.count))) + 1)
+            let randomNum = (Int(arc4random_uniform(UInt32(questionArr.count)))) // had + 1
             questionsList.append(questionArr[randomNum])
             questionArr.remove(at: randomNum)
         }
+//        print("Question List array: \(questionsList.count) from ConvertJSON.swift")
+//        getQuestionsFromConvertedJSON()
 
     } catch {
         print(error)
     }
-    print(questionsList.count)
 }

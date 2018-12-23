@@ -1,15 +1,8 @@
-//
-//  QuestionViewController.swift
-//  TriviaGeek
-//
-//  Created by Harold on 11/4/18.
-//  Copyright © 2018 harold. All rights reserved.
-//
-
 import UIKit
 
 class QuestionViewController: UIViewController {
 
+    @IBOutlet weak var teamNameLabel: UILabel!
     @IBOutlet weak var timerLabel: UILabel!
     @IBOutlet weak var startTimerLabel: UIButton!
     @IBOutlet weak var questionLabel: UILabel!
@@ -32,15 +25,11 @@ class QuestionViewController: UIViewController {
         timer = Timer.scheduledTimer(timeInterval: 1, target: self, selector: (#selector(QuestionViewController.updateTimer)), userInfo: nil, repeats: true)
     }
     
-    
     override func viewDidLoad() {
         super.viewDidLoad()
-        categoryLabel.text = questionsList[currentQuestion].category
-        questionLabel.text = questionsList[currentQuestion].question
-        print("Questions array:")
-        print("question text " + questionsList[currentQuestion].question)
-        print("answer text " + questionsList[currentQuestion].answer)
-        print("category text " + questionsList[currentQuestion].category)
+        categoryLabel.text = questionsToAnswer[currentQuestion].category
+        questionLabel.text = questionsToAnswer[currentQuestion].question
+        teamNameLabel.text = teams[currentTeam].teamName
     }
 
     override func didReceiveMemoryWarning() {
@@ -56,14 +45,4 @@ class QuestionViewController: UIViewController {
         startTimerLabel.backgroundColor = #colorLiteral(red: 0.5725490451, green: 0, blue: 0.2313725501, alpha: 1)
     }
     
-    /*
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destinationViewController.
-        // Pass the selected object to the new view controller.
-    }
-    */
-
 }

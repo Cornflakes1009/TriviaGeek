@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D915BE9E21CB3CDA00F40112 /* GameResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D915BE9D21CB3CDA00F40112 /* GameResultsViewController.swift */; };
 		D9292B8E21C886F800065BB9 /* AnswerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9292B8D21C886F800065BB9 /* AnswerViewController.swift */; };
 		F22E18E4217BAE3000D0D3CB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F22E18E3217BAE3000D0D3CB /* AppDelegate.swift */; };
 		F22E18E6217BAE3000D0D3CB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F22E18E5217BAE3000D0D3CB /* ViewController.swift */; };
@@ -25,6 +26,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D915BE9D21CB3CDA00F40112 /* GameResultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameResultsViewController.swift; sourceTree = "<group>"; };
 		D9292B8D21C886F800065BB9 /* AnswerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnswerViewController.swift; sourceTree = "<group>"; };
 		F22E18E0217BAE3000D0D3CB /* TriviaGeek.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TriviaGeek.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F22E18E3217BAE3000D0D3CB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -78,6 +80,7 @@
 				F22E18FE217BAF0600D0D3CB /* ConvertJSON.swift */,
 				F22E1900217BB10500D0D3CB /* Questions.swift */,
 				F22E18E7217BAE3000D0D3CB /* Main.storyboard */,
+				D915BE9D21CB3CDA00F40112 /* GameResultsViewController.swift */,
 				D9292B8D21C886F800065BB9 /* AnswerViewController.swift */,
 				F2D2F2BA2187DBE40068A44C /* CategoryViewController.swift */,
 				F23C52CC218EC4F7005D6BF6 /* QuestionViewController.swift */,
@@ -184,6 +187,7 @@
 				D9292B8E21C886F800065BB9 /* AnswerViewController.swift in Sources */,
 				F22E18E4217BAE3000D0D3CB /* AppDelegate.swift in Sources */,
 				F2D2F2BB2187DBE40068A44C /* CategoryViewController.swift in Sources */,
+				D915BE9E21CB3CDA00F40112 /* GameResultsViewController.swift in Sources */,
 				F22E18FF217BAF0600D0D3CB /* ConvertJSON.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -13,3 +13,11 @@ class Team {
     }
 }
 
+func cycleThroughTeams() {
+    if currentTeam == teams.count - 1 {
+        currentTeam = 0
+    } else {
+        currentTeam += 1
+    }
+}
+

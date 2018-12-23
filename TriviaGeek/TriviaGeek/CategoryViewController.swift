@@ -1,11 +1,3 @@
-//
-//  CategoryViewController.swift
-//  TriviaGeek
-//
-//  Created by Harold on 10/29/18.
-//  Copyright © 2018 harold. All rights reserved.
-//
-
 import UIKit
 var categoryCount = 0
 
@@ -104,34 +96,25 @@ class CategoryViewController: UIViewController {
     }
     
     @IBAction func submitBtnClicked(_ sender: Any) {
-        if(harryPotterSelected == true) {
+        if(harryPotterSelected) {
             categoryCount += 1
-        }
-        if(gameOfThronesSelected == true) {
-            categoryCount += 1
-        }
-        if(starWarsSelected == true) {
-            categoryCount += 1
-        }
-        if(comicBookMoviesSelected == true) {
-            categoryCount += 1
-        }
-        
-        if(harryPotterSelected == true) {
             getJSON(jsonToRead: "harryPotterTriviaQuestions")
         }
         if(gameOfThronesSelected) {
+            categoryCount += 1
             getJSON(jsonToRead: "gameOfThronesTriviaQuestions")
         }
         if(starWarsSelected) {
+            categoryCount += 1
             getJSON(jsonToRead: "starWarsTriviaQuestions")
         }
         if(comicBookMoviesSelected) {
+            categoryCount += 1
             getJSON(jsonToRead: "comicBookMovieTriviaQuestions")
         }
         
+        getQuestionsFromConvertedJSON()
         performSegue(withIdentifier: "loadQuestionVC", sender: self)
-        
     }
     
     
