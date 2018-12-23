@@ -49,8 +49,8 @@ class CategoryViewController: UIViewController {
             harryPotterCategoryLabel.backgroundColor = #colorLiteral(red: 0, green: 0.4784313725, blue: 1, alpha: 1)
             numberOfCategories -= 1
         } else{
-            harryPotterCategoryLabel.backgroundColor = #colorLiteral(red: 0.1215686277, green: 0.01176470611, blue: 0.4235294163, alpha: 1)
             harryPotterSelected = true
+            harryPotterCategoryLabel.backgroundColor = #colorLiteral(red: 0.1215686277, green: 0.01176470611, blue: 0.4235294163, alpha: 1)
             numberOfCategories += 1
         }
         checkNumberOfCategories()
@@ -62,8 +62,8 @@ class CategoryViewController: UIViewController {
             gameOfThronesCategoryLabel.backgroundColor = #colorLiteral(red: 0, green: 0.4784313725, blue: 1, alpha: 1)
             numberOfCategories -= 1
         } else{
-            gameOfThronesCategoryLabel.backgroundColor = #colorLiteral(red: 0.1215686277, green: 0.01176470611, blue: 0.4235294163, alpha: 1)
             gameOfThronesSelected = true
+            gameOfThronesCategoryLabel.backgroundColor = #colorLiteral(red: 0.1215686277, green: 0.01176470611, blue: 0.4235294163, alpha: 1)
             numberOfCategories += 1
         }
         checkNumberOfCategories()
@@ -75,8 +75,8 @@ class CategoryViewController: UIViewController {
             starWarsCategoryLabel.backgroundColor = #colorLiteral(red: 0, green: 0.4784313725, blue: 1, alpha: 1)
             numberOfCategories -= 1
         } else{
-            starWarsCategoryLabel.backgroundColor = #colorLiteral(red: 0.1215686277, green: 0.01176470611, blue: 0.4235294163, alpha: 1)
             starWarsSelected = true
+            starWarsCategoryLabel.backgroundColor = #colorLiteral(red: 0.1215686277, green: 0.01176470611, blue: 0.4235294163, alpha: 1)
             numberOfCategories += 1
         }
         checkNumberOfCategories()
@@ -88,8 +88,8 @@ class CategoryViewController: UIViewController {
             comicBookMoviesCategoryLabel.backgroundColor = #colorLiteral(red: 0, green: 0.4784313725, blue: 1, alpha: 1)
             numberOfCategories -= 1
         } else{
-            comicBookMoviesCategoryLabel.backgroundColor = #colorLiteral(red: 0.1215686277, green: 0.01176470611, blue: 0.4235294163, alpha: 1)
             comicBookMoviesSelected = true
+            comicBookMoviesCategoryLabel.backgroundColor = #colorLiteral(red: 0.1215686277, green: 0.01176470611, blue: 0.4235294163, alpha: 1)
             numberOfCategories += 1
         }
         checkNumberOfCategories()

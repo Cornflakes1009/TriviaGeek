@@ -3,8 +3,7 @@ import Foundation
 
 func getJSON(jsonToRead: String) {
     // clearing out the questionArr before converting JSON
-//    questionsList = [Question]()
-    questionArr = [Question]()
+    var questionArr = [Question]()
     
     guard let path = Bundle.main.path(forResource: jsonToRead, ofType: "json") else { return }
     let url = URL(fileURLWithPath: path)
@@ -37,8 +36,6 @@ func getJSON(jsonToRead: String) {
             questionsList.append(questionArr[randomNum])
             questionArr.remove(at: randomNum)
         }
-//        print("Question List array: \(questionsList.count) from ConvertJSON.swift")
-//        getQuestionsFromConvertedJSON()
 
     } catch {
         print(error)
