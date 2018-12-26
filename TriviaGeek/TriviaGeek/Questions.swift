@@ -35,15 +35,16 @@ func getQuestionsFromConvertedJSON() {
             questionsList.remove(at: randomNum)
         }
     } else if teams.count == 2 {
-        for _ in 1...30 {
+        for _ in 1...4 {
             let randomNum = (Int(arc4random_uniform(UInt32(questionsList.count))))
             questionsToAnswer.append(questionsList[randomNum])
             questionsList.remove(at: randomNum)
         }
     }
-    for i in questionsToAnswer {
-        print(i.category)
-    }
-    print("questions to answer \(questionsToAnswer.count)")
+    
+//    for i in questionsToAnswer {
+//        print(i.category)
+//    }
+//    print("questions to answer \(questionsToAnswer.count)")
 }
 

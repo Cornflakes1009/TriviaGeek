@@ -31,11 +31,6 @@ class QuestionViewController: UIViewController {
         questionLabel.text = questionsToAnswer[currentQuestion].question
         teamNameLabel.text = teams[currentTeam].teamName
     }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        
-    }
     
     @IBAction func startTimer(_ sender: Any) {
         runTimer()

@@ -1,0 +1,29 @@
+@font-face {
+    font-family: LiquidCrystal;
+    src: url(LiquidCrystal-LightItalic.otf);
+}
+
+h1 {
+    font-family: LiquidCrystal;
+    font-size: 100px;
+    color: rgb(143,231,127);
+    margin-left: 400px;
+    margin-top: 400px;
+}
+
+body {
+    background-color: black;
+}
+
+p {
+    color: rgb(143,231,127);
+    margin-left: 400px;
+    margin-top: 400px;
+}
+
+h2 {
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    margin-left: 400px;
+    margin-top: 300px;
+}

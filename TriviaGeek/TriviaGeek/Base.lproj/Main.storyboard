@@ -37,8 +37,11 @@
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="E4f-TE-muW">
-                                <rect key="frame" x="16" y="168.5" width="343" height="42"/>
+                                <rect key="frame" x="16" y="168.5" width="343" height="50"/>
                                 <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="50" id="W6N-uh-F03"/>
+                                </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                 <state key="normal" title="Add Team">
                                     <color key="titleColor" red="0.98209116969999999" green="1" blue="0.97026466879999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -53,25 +56,25 @@
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fYu-X3-8b4">
-                                <rect key="frame" x="16" y="255" width="343" height="0.0"/>
+                                <rect key="frame" x="16" y="263" width="343" height="0.0"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1Xx-zT-tYK">
-                                <rect key="frame" x="16" y="258" width="343" height="0.0"/>
+                                <rect key="frame" x="16" y="266" width="343" height="0.0"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Oeg-bq-p0B">
-                                <rect key="frame" x="16" y="261" width="343" height="0.0"/>
+                                <rect key="frame" x="16" y="269" width="343" height="0.0"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qxi-Nn-Ku1">
-                                <rect key="frame" x="16" y="264" width="343" height="0.0"/>
+                                <rect key="frame" x="16" y="272" width="343" height="0.0"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <nil key="highlightedColor"/>
@@ -291,7 +294,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="R3H-KG-jsU" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="786" y="113"/>
+            <point key="canvasLocation" x="814" y="773"/>
         </scene>
         <!--Question View Controller-->
         <scene sceneID="dcD-pc-W9A">
@@ -355,7 +358,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="32"/>
                                 <state key="normal" title="Reveal Answer">
-                                    <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <color key="titleColor" red="0.97382165610000004" green="1" blue="0.97405589839999995" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 </state>
                                 <userDefinedRuntimeAttributes>
                                     <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
@@ -406,7 +409,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="paW-7m-FZe" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1434" y="113"/>
+            <point key="canvasLocation" x="1548" y="909"/>
         </scene>
         <!--Answer View Controller-->
         <scene sceneID="mBR-WA-idD">
@@ -443,7 +446,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="32"/>
                                 <state key="normal" title="Next Question">
-                                    <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <color key="titleColor" red="0.97382165610000004" green="1" blue="0.97405589839999995" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 </state>
                                 <userDefinedRuntimeAttributes>
                                     <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
@@ -530,6 +533,8 @@
                         <outlet property="nextQuestionLabel" destination="6NP-TK-fzh" id="1gk-pa-8dL"/>
                         <outlet property="questionLabel" destination="B2x-bQ-iKK" id="kjL-OG-Twl"/>
                         <outlet property="teamLabel" destination="Tx6-h2-yFQ" id="ssU-a6-G2m"/>
+                        <segue destination="xR4-sX-Gnd" kind="show" identifier="nextQuestionSegue" id="JJD-gh-rGh"/>
+                        <segue destination="6tu-7m-Nmw" kind="show" identifier="showResultsSegue" id="1fT-6m-Kxf"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="WHP-iG-ISV" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -606,6 +611,7 @@
                         <outlet property="secondPlaceLabel" destination="Lul-9E-ZHf" id="61K-U9-RqI"/>
                         <outlet property="startNewGameLabel" destination="I1d-tC-VX1" id="tBb-oL-HZF"/>
                         <outlet property="thirdPlaceLabel" destination="s45-ti-Isy" id="qTe-ny-vq1"/>
+                        <segue destination="BYZ-38-t0r" kind="show" identifier="restartGameSegue" id="5nY-4T-ona"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="hbF-9X-6IP" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -616,4 +622,7 @@
     <resources>
         <image name="Choose Category" width="209" height="24"/>
     </resources>
+    <inferredMetricsTieBreakers>
+        <segue reference="Zrz-l1-KqA"/>
+    </inferredMetricsTieBreakers>
 </document>
