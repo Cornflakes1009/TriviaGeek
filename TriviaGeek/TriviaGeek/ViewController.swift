@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ViewController: UIViewController, UITextFieldDelegate {
      // added for dismissing the keyboard when touching outside of the keyboard or text field
     func touchesBegan(touches: NSSet, withEvent event: UIEvent) {
         self.enterTeamName.resignFirstResponder()
@@ -37,6 +37,7 @@ class ViewController: UIViewController {
             chooseCategoryLabel.isEnabled = true
             chooseCategoryLabel.backgroundColor = #colorLiteral(red: 0, green: 0.4784313725, blue: 1, alpha: 1)
             chooseCategoryLabel.setTitleColor(#colorLiteral(red: 1.0, green: 1.0, blue: 1.0, alpha: 1.0), for: .normal)
+            chooseCategoryLabel.isHidden = false
         }
         if teams.count == 4 {
             addTeamLabel.isEnabled = false
@@ -49,22 +50,17 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        chooseCategoryLabel.isEnabled = false
-        chooseCategoryLabel.setTitleColor(#colorLiteral(red: 0.8039215803, green: 0.8039215803, blue: 0.8039215803, alpha: 1), for: .normal)
-        chooseCategoryLabel.backgroundColor = #colorLiteral(red: 0, green: 0, blue: 0.8821885851, alpha: 1)
+//        chooseCategoryLabel.isEnabled = false
+//        chooseCategoryLabel.setTitleColor(#colorLiteral(red: 0.8039215803, green: 0.8039215803, blue: 0.8039215803, alpha: 1), for: .normal)
+//        chooseCategoryLabel.backgroundColor = #colorLiteral(red: 0, green: 0, blue: 0.8821885851, alpha: 1)
         
+        chooseCategoryLabel.isHidden = true
         
     }
     
     override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
         self.view.endEditing(true)
     }
-    
-    
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-    }
-
     
     func updateTeamLabels() {
         if teams.count == 1 {

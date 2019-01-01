@@ -241,8 +241,53 @@
     },
     {
         "category": "Game of Thrones",
-        "question": "example question",
-        "answer": "example answer"
+        "question": "What animal is on the coat of arms of House Baratheon?",
+        "answer": "A Stag"
+    },
+    {
+        "category": "Game of Thrones",
+        "question": "What animal is on the coat of arms of House Lannister?",
+        "answer": "A Lion"
+    },
+    {
+        "category": "Game of Thrones",
+        "question": "Who is the red-haired wildling woman that Jon Snow breaks his vows with?",
+        "answer": "Ygritte"
+    },
+    {
+        "category": "Game of Thrones",
+        "question": "What is the sigil on the banner of House Targaryen and what what color is it?",
+        "answer": "Red dragon"
+    },
+    {
+        "category": "Game of Thrones",
+        "question": "What is the sigil on the banner of House Blackfyre and what what color is it?",
+        "answer": "Black dragon"
+    },
+    {
+        "category": "Game of Thrones",
+        "question": "What animal is on the sigil of House Mormont?",
+        "answer": "Bear"
+    },
+    {
+        "category": "Game of Thrones",
+        "question": "What is the sigil of House Bolton?",
+        "answer": "A flayed man"
+    },
+    {
+        "category": "Game of Thrones",
+        "question": "Who is the Bastard of Bolton?",
+        "answer": "Ramsay Bolton"
+    },
+    {
+        "category": "Game of Thrones",
+        "question": "What is on the sigil of House Glover?",
+        "answer": "A fist"
+    },
+    {
+        "category": "Game of Thrones",
+        "question": "In what land does House Tully reside?",
+        "answer": "Riverrun"
     },
     {
         "category": "Game of Thrones",
@@ -251,103 +296,58 @@
     },
     {
         "category": "Game of Thrones",
-        "question": "example question",
-        "answer": "example answer"
+        "question": "Who is Catelyn Stark's sister?",
+        "answer": "Lysa Arryn"
     },
     {
         "category": "Game of Thrones",
-        "question": "example question",
-        "answer": "example answer"
+        "question": "Who is Lysa Arryn's deceased husband?",
+        "answer": "Jon Arryn"
     },
     {
         "category": "Game of Thrones",
-        "question": "example question",
-        "answer": "example answer"
+        "question": "Where does Lysa Arryn live?",
+        "answer": "At the Eyrie"
     },
     {
         "category": "Game of Thrones",
-        "question": "example question",
-        "answer": "example answer"
+        "question": "Who succeeds Robert Baratheon on the Iron Throne?",
+        "answer": "Joffrey Baratheon"
     },
     {
         "category": "Game of Thrones",
-        "question": "example question",
-        "answer": "example answer"
+        "question": "Who tells Catelyn Stark that the knife used in the attempted murder of Bran belonged to Tyrion Lannister?",
+        "answer": "Petyr Baelish"
     },
     {
         "category": "Game of Thrones",
-        "question": "example question",
-        "answer": "example answer"
+        "question": "How does Tyrion Lannister prove his innocence of the attempted murder of Bran Stark?",
+        "answer": "Trial by combat"
     },
     {
         "category": "Game of Thrones",
-        "question": "example question",
-        "answer": "example answer"
+        "question": "Who is Tyrion Lannister's champion at trial by combat?",
+        "answer": "Bronn"
     },
     {
         "category": "Game of Thrones",
-        "question": "example question",
-        "answer": "example answer"
+        "question": "Whom does Robb Stark send to forge an alliance with Balon Greyjoy?",
+        "answer": "Theon Greyjoy"
     },
     {
         "category": "Game of Thrones",
-        "question": "example question",
-        "answer": "example answer"
+        "question": "Whom does Robb Stark send to forge an alliance with Renly Baratheon?",
+        "answer": "His mother, Catelyn Stark"
     },
     {
         "category": "Game of Thrones",
-        "question": "example question",
-        "answer": "example answer"
+        "question": "Where is the ancestral seat of the Baratheon House?",
+        "answer": "Storm's End"
     },
     {
         "category": "Game of Thrones",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Game of Thrones",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Game of Thrones",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Game of Thrones",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Game of Thrones",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Game of Thrones",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Game of Thrones",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Game of Thrones",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Game of Thrones",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Game of Thrones",
-        "question": "example question",
-        "answer": "example answer"
+        "question": "Whom does Catelyn Stark send Jaime Lannister with to King's Landing in an attempt to exchange Jaime for her daughters?",
+        "answer": "Brienne of Tarth"
     },
     {
         "category": "Game of Thrones",

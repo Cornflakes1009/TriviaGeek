@@ -3,6 +3,16 @@
     src: url(LiquidCrystal-LightItalic.otf);
 }
 
+@font-face {
+    font-family: ParryHotter;
+    src: url(ParryHotter.ttf);
+}
+
+@font-face {
+    font-family: GameOfThrones;
+    src: url(GameofThrones.ttf);
+}
+
 h1 {
     font-family: LiquidCrystal;
     font-size: 100px;
@@ -12,7 +22,7 @@ h1 {
 }
 
 body {
-    background-color: black;
+    background-color: white;
 }
 
 p {
@@ -26,4 +36,34 @@ h2 {
     font-family: 'Oswald', sans-serif;
     margin-left: 400px;
     margin-top: 300px;
+}
+#black-box {
+    height: 30px;
+    background-color: black;
+    width: 5px;
+
+}
+.tgeek-image {
+    width: 40%;
+    height: 40%;
+}
+
+.harry-potter {
+    font-family: ParryHotter;
+    font-size: 50px;
+    color: gold;
+    background-color: rgb(66, 71, 73);
+    padding-left: 250px;
+
+}
+
+.game-of-thrones {
+    font-family: GameofThrones;
+    font-size: 50px;
+    background-color: rgb(42,52,69);
+    /* color for when it's selected */
+    /* color: rgb(172, 197, 218); */
+    color: rgb(213, 232, 248);
+    padding: 7px;
+    margin: 20px;
 }

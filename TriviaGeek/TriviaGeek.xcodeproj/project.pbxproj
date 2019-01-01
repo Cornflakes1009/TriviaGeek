@@ -9,6 +9,11 @@
 /* Begin PBXBuildFile section */
 		D915BE9E21CB3CDA00F40112 /* GameResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D915BE9D21CB3CDA00F40112 /* GameResultsViewController.swift */; };
 		D9292B8E21C886F800065BB9 /* AnswerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9292B8D21C886F800065BB9 /* AnswerViewController.swift */; };
+		D9708FA821DBE7210057836C /* LiquidCrystal-LightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = D9708FA421DBE12A0057836C /* LiquidCrystal-LightItalic.otf */; };
+		D9708FA921DBE7240057836C /* GameOfThrones.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D9708FA621DBE1360057836C /* GameOfThrones.ttf */; };
+		D9708FAA21DBE7280057836C /* ParryHotter.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D9708FA521DBE1360057836C /* ParryHotter.ttf */; };
+		D9708FAE21DBFAF10057836C /* Starjhol.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D9708FAD21DBFAF10057836C /* Starjhol.ttf */; };
+		D9708FB021DC01360057836C /* HOMOARAK.TTF in Resources */ = {isa = PBXBuildFile; fileRef = D9708FAF21DC01360057836C /* HOMOARAK.TTF */; };
 		F22E18E4217BAE3000D0D3CB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F22E18E3217BAE3000D0D3CB /* AppDelegate.swift */; };
 		F22E18E6217BAE3000D0D3CB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F22E18E5217BAE3000D0D3CB /* ViewController.swift */; };
 		F22E18E9217BAE3000D0D3CB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F22E18E7217BAE3000D0D3CB /* Main.storyboard */; };
@@ -28,6 +33,11 @@
 /* Begin PBXFileReference section */
 		D915BE9D21CB3CDA00F40112 /* GameResultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameResultsViewController.swift; sourceTree = "<group>"; };
 		D9292B8D21C886F800065BB9 /* AnswerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnswerViewController.swift; sourceTree = "<group>"; };
+		D9708FA421DBE12A0057836C /* LiquidCrystal-LightItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "LiquidCrystal-LightItalic.otf"; path = "TriviaGeek/New Group/LiquidCrystal-LightItalic.otf"; sourceTree = SOURCE_ROOT; };
+		D9708FA521DBE1360057836C /* ParryHotter.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = ParryHotter.ttf; path = "TriviaGeek/New Group/ParryHotter.ttf"; sourceTree = SOURCE_ROOT; };
+		D9708FA621DBE1360057836C /* GameOfThrones.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = GameOfThrones.ttf; path = "TriviaGeek/New Group/GameOfThrones.ttf"; sourceTree = SOURCE_ROOT; };
+		D9708FAD21DBFAF10057836C /* Starjhol.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Starjhol.ttf; path = "TriviaGeek/New Group/Starjhol.ttf"; sourceTree = SOURCE_ROOT; };
+		D9708FAF21DC01360057836C /* HOMOARAK.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; name = HOMOARAK.TTF; path = TriviaGeek/Fonts/HOMOARAK.TTF; sourceTree = SOURCE_ROOT; };
 		F22E18E0217BAE3000D0D3CB /* TriviaGeek.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TriviaGeek.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F22E18E3217BAE3000D0D3CB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F22E18E5217BAE3000D0D3CB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +67,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D9708FA721DBE13F0057836C /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				D9708FA621DBE1360057836C /* GameOfThrones.ttf */,
+				D9708FA421DBE12A0057836C /* LiquidCrystal-LightItalic.otf */,
+				D9708FA521DBE1360057836C /* ParryHotter.ttf */,
+				D9708FAF21DC01360057836C /* HOMOARAK.TTF */,
+				D9708FAD21DBFAF10057836C /* Starjhol.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
 		F22E18D7217BAE3000D0D3CB = {
 			isa = PBXGroup;
 			children = (
@@ -86,6 +108,7 @@
 				F23C52CC218EC4F7005D6BF6 /* QuestionViewController.swift */,
 				F22E18E5217BAE3000D0D3CB /* ViewController.swift */,
 				F22E1902217BBEBA00D0D3CB /* Teams.swift */,
+				D9708FA721DBE13F0057836C /* Fonts */,
 				F22E18EA217BAE3200D0D3CB /* Assets.xcassets */,
 				F22E18FD217BAE4E00D0D3CB /* Data */,
 				F22E18EC217BAE3200D0D3CB /* LaunchScreen.storyboard */,
@@ -163,11 +186,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D9708FA921DBE7240057836C /* GameOfThrones.ttf in Resources */,
 				F22E18FA217BAE4400D0D3CB /* harryPotterTriviaQuestions.json in Resources */,
+				D9708FA821DBE7210057836C /* LiquidCrystal-LightItalic.otf in Resources */,
 				F22E18EE217BAE3200D0D3CB /* LaunchScreen.storyboard in Resources */,
 				F22E18FB217BAE4400D0D3CB /* gameOfThronesTriviaQuestions.json in Resources */,
 				F22E18F9217BAE4400D0D3CB /* comicBookMovieTriviaQuestions.json in Resources */,
+				D9708FB021DC01360057836C /* HOMOARAK.TTF in Resources */,
 				F22E18EB217BAE3200D0D3CB /* Assets.xcassets in Resources */,
+				D9708FAA21DBE7280057836C /* ParryHotter.ttf in Resources */,
+				D9708FAE21DBFAF10057836C /* Starjhol.ttf in Resources */,
 				F22E18E9217BAE3000D0D3CB /* Main.storyboard in Resources */,
 				F22E18FC217BAE4400D0D3CB /* starWarsTriviaQuestions.json in Resources */,
 			);

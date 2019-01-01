@@ -39,5 +39,13 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Starjhol.ttf</string>
+		<string>HOMOARAK.TTF</string>
+		<string>GameOfThrones.ttf</string>
+		<string>LiquidCrystal-LightItalic.otf</string>
+		<string>ParryHotter.ttf</string>
+	</array>
 </dict>
 </plist>

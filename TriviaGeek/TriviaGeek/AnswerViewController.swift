@@ -18,21 +18,15 @@ class AnswerViewController: UIViewController {
         categoryLabel.text = questionsToAnswer[currentQuestion].category
         questionLabel.text = questionsToAnswer[currentQuestion].question
         answerLabel.text = questionsToAnswer[currentQuestion].answer
-        nextQuestionLabel.isEnabled = false
-        nextQuestionLabel.setTitleColor(#colorLiteral(red: 0.8039215803, green: 0.8039215803, blue: 0.8039215803, alpha: 1), for: .normal)
-        nextQuestionLabel.backgroundColor = #colorLiteral(red: 0, green: 0, blue: 0.8821885851, alpha: 1)
+        nextQuestionLabel.isHidden = true
         currentQuestion += 1
     }
-    
-    func activateNextButton() {
-        nextQuestionLabel.isEnabled = true
-        nextQuestionLabel.setTitleColor(#colorLiteral(red: 1.0, green: 1.0, blue: 1.0, alpha: 1.0), for: .normal)
-        nextQuestionLabel.backgroundColor = #colorLiteral(red: 0, green: 0.4784313725, blue: 1, alpha: 1)
-    }
+
     
     @IBAction func correctButtonTouched(_ sender: Any) {
-        activateNextButton()
+        
         if correct == false {
+            nextQuestionLabel.isHidden = false
             correct = true
             incorrect = false
             correctButton.setTitleColor(#colorLiteral(red: 0.8039215803, green: 0.8039215803, blue: 0.8039215803, alpha: 1), for: .normal)
@@ -44,8 +38,9 @@ class AnswerViewController: UIViewController {
     }
     
     @IBAction func incorrectButtonTouched(_ sender: Any) {
-        activateNextButton()
+        
         if incorrect == false {
+            nextQuestionLabel.isHidden = false
             incorrect = true
             correct = false
             incorrectButton.setTitleColor(#colorLiteral(red: 0.8039215803, green: 0.8039215803, blue: 0.8039215803, alpha: 1), for: .normal)
