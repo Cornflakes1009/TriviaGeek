@@ -1,17 +1,16 @@
-//
-//  ViewController.swift
-//  TriviaGeek
-//
-//  Created by Harold on 10/20/18.
-//  Copyright © 2018 harold. All rights reserved.
-//
-
 import UIKit
 
 class ViewController: UIViewController, UITextFieldDelegate {
-     // added for dismissing the keyboard when touching outside of the keyboard or text field
+     // added for dismissing the keyboard when touching outside of the keyboard or text field - requires UITextFieldDelegate
     func touchesBegan(touches: NSSet, withEvent event: UIEvent) {
         self.enterTeamName.resignFirstResponder()
+    }
+    
+    // function for dismissing the keyboard when clicking done - requires UITextFieldDelegate subclass and textFieldName.delegate = self added in ViewDidLoad
+    
+    func textFieldShouldReturn(_ textField: UITextField) -> Bool {
+        self.view.endEditing(true)
+        return false
     }
     
     
@@ -42,20 +41,19 @@ class ViewController: UIViewController, UITextFieldDelegate {
         if teams.count == 4 {
             addTeamLabel.isEnabled = false
         }
+        // dismisses keyboard when button pressed
+        enterTeamName.resignFirstResponder()
         updateTeamLabels()
     }
     
     @IBAction func chooseCategoryBtn(_ sender: Any) {
+        // performing a segue
     }
     
     override func viewDidLoad() {
         super.viewDidLoad()
-//        chooseCategoryLabel.isEnabled = false
-//        chooseCategoryLabel.setTitleColor(#colorLiteral(red: 0.8039215803, green: 0.8039215803, blue: 0.8039215803, alpha: 1), for: .normal)
-//        chooseCategoryLabel.backgroundColor = #colorLiteral(red: 0, green: 0, blue: 0.8821885851, alpha: 1)
-        
+        enterTeamName.delegate = self
         chooseCategoryLabel.isHidden = true
-        
     }
     
     override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {

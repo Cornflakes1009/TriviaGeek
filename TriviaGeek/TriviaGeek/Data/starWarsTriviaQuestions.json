@@ -1,706 +1,1567 @@
 [
-    {
-        "category": "Star Wars",
-        "question": "How much older is Padme than Anakin?",
-        "answer": "4 years"
-    },
-    {
-        "category": "Star Wars",
-        "question": "How old was Obi Wan Kenobi when he died?",
-        "answer": "56"
-    },
-    {
-        "category": "Star Wars",
-        "question": "Who is the third child of Han and Leia?",
-        "answer": "Anakin Solo"
-    },
-    {
-        "category": "Star Wars",
-        "question": "What are intelligent microscopic life forms that live symbiotically inside the cells of all living things?",
-        "answer": "Midi-chlorians"
-    },
-    {
-        "category": "Star Wars",
-        "question": "What former jedi becomes Darth Vader?",
-        "answer": "Anakin Skywalker"
-    },
-    {
-        "category": "Star Wars",
-        "question": "How old was Darth Vader at the time of his death?",
-        "answer": "45"
-    },
-    {
-        "category": "Star Wars",
-        "question": "What is the name of Anakin Skywalker's mother?",
-        "answer": "Shmi Skywalker"
-    },
-    {
-        "category": "Star Wars",
-        "question": "On what planet are Anakin and Padme married?",
-        "answer": "Naboo"
-    },
-    {
-        "category": "Star Wars",
-        "question": "What is Luke Skywalker's wife's name?",
-        "answer": "Mara Jade"
-    },
-    {
-        "category": "Star Wars",
-        "question": "In which episode does Anakin become Darth Vader?",
-        "answer": "Star Wars: Episode III - Revenge of the Sith"
-    },
-    {
-        "category": "Star Wars",
-        "question": "Who was the master of Darth Sidious?",
-        "answer": "Darth Plagueis"
-    },
-    {
-        "category": "Star Wars",
-        "question": "Which Sith Lord was called The Wise?",
-        "answer": "Darth Plagueis"
-    },
-    {
-        "category": "Star Wars",
-        "question": "Which Sith Lord could manipulate midi-chlorians to the point of being capable of stopping death and creating life?",
-        "answer": "Darth Plagueis"
-    },
-    {
-        "category": "Star Wars",
-        "question": "Who was Darth Tyranus's Sith master?",
-        "answer": "Darth Sidious"
-    },
-    {
-        "category": "Star Wars",
-        "question": "What was Count Dooku's Sith name?",
-        "answer": "Darth Tyranus"
-    },
-    {
-        "category": "Star Wars",
-        "question": "Who serves as the Grand Master of the Jedi Order in episodes 1-3?",
-        "answer": "Yoda"
-    },
-    {
-        "category": "Star Wars",
-        "question": "Who is the first member of the Jedi Order?",
-        "answer": "Prime Jedi"
-    },
-    {
-        "category": "Star Wars",
-        "question": "Who was was the first Dark Lord of the Sith?",
-        "answer": "Ajuntu Pall"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },{
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },{
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },{
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },{
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },{
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },{
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    },
-    {
-        "category": "Star Wars",
-        "question": "example question",
-        "answer": "example answer"
-    }
-]
+  {
+    "category": "Starwars",
+    "question": "How many years older is Padme than anakin? ",
+    "answer": "4"
+  },
+  {
+    "category": "Starwars",
+    "question": "How old was Obi-Wan Kenobi when he died?",
+    "answer": "58"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is a human male Jedi Knight and the third child of Han Solo and Leia organa Solo? ",
+    "answer": "Anakin Skywalker"
+  },
+  {
+    "category": "Starwars",
+    "question": "What are cells inside living beings in Star Wars? ",
+    "answer": "Midichlorians"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who does Anakin Skywalker become? ",
+    "answer": "Darth Vader"
+  },
+  {
+    "category": "Starwars",
+    "question": "How old was Darth Vader when he died? ",
+    "answer": "45"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is Anakin Mother? ",
+    "answer": "Shmi Skywalker"
+  },
+  {
+    "category": "Starwars",
+    "question": "Where did Anakin and Padme got married?",
+    "answer": "Naboo"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is Luke Skywalker wife? ",
+    "answer": "Mara Jade"
+  },
+  {
+    "category": "Starwars",
+    "question": "What episodedoes Anakin become Darth Vader? ",
+    "answer": "episode 3"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is the powerful Dark Lord of the Sith? ",
+    "answer": "Dart Plagueis"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is the male Hysalrian Jedi Master? ",
+    "answer": "N' kata Del Gomo"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who helps Midichlorians to save people from dying? ",
+    "answer": "palpatine"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who was Dooku's Jedi Master? ",
+    "answer": "Dart Sidious"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is the firstJedi? ",
+    "answer": "Ajunto Pall"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who trained Qui Gon? ",
+    "answer": "Jedi Master Dooku"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is Yoda Master? ",
+    "answer": "N' Kata Del Gomo"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is a legendary Jedi Master? ",
+    "answer": "Yoda"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is the Grand Master thtoughout Galactic war? ",
+    "answer": "Kel Dor Zym"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is called to a Jedi Master? ",
+    "answer": "Padawan"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is Anakin's Padawan? ",
+    "answer": "Ahsoka Tano"
+  },
+  {
+    "category": "Starwars",
+    "question": "How old is Anakin in the Clone Wars? ",
+    "answer": "24"
+  },
+  {
+    "category": "Starwars",
+    "question": "How old is Mace Windu?",
+    "answer": "53"
+  },
+  {
+    "category": "Starwars",
+    "question": "How old is Obi-Wan Kenobi?",
+    "answer": "38"
+  },
+  {
+    "category": "Starwars",
+    "question": "How old was Darth Maul when he died?",
+    "answer": "51"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who killed Mace Windu?",
+    "answer": "Palpatine"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is the most Powerful Sith?",
+    "answer": "Darth Vader"
+  },
+  {
+    "category": "Starwars",
+    "question": "How old is Rey?",
+    "answer": "29"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who killed Maul?",
+    "answer": "Obi-Wan"
+  },
+  {
+    "category": "Starwars",
+    "question": "What was General Grievous befire he was a cyborg?",
+    "answer": "kaleesh"
+  },
+  {
+    "category": "Starwars",
+    "question": "What are the colors of General Grievous lightsaber?",
+    "answer": "Blue and Green"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is the leader of the Evil First order?",
+    "answer": "Snoke"
+  },
+  {
+    "category": "Starwars",
+    "question": "How old is Ben Solo during the Force Awakens?",
+    "answer": "30"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is a title given to the Dark Lords of the Sith Order?",
+    "answer": "Darth"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who killed Ahsoka Tano?",
+    "answer": "Anakin"
+  },
+  {
+    "category": "Starwars",
+    "question": "How many lightsabers did General Grievous collect?",
+    "answer": "4"
+  },
+  {
+    "category": "Starwars",
+    "question": "Where does Obi Wan Killed General Grievous",
+    "answer": "Utapau"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who was Qui Gon Jinn's master?",
+    "answer": "Jedi Master Dooku"
+  },
+  {
+    "category": "Starwars",
+    "question": "What color was Revans lightsaber?",
+    "answer": "purple"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who defeated Darth Nihilus?",
+    "answer": "Meetra Surik"
+  },
+  {
+    "category": "Starwars",
+    "question": "How tall is Revan?",
+    "answer": "5'9\""
+  },
+  {
+    "category": "Starwars",
+    "question": "What color is Darth Vader's lightsaber?",
+    "answer": "Blue/Red"
+  },
+  {
+    "category": "Starwars",
+    "question": "What race is Darth Nihilus?",
+    "answer": "human"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is the Lord of pain?",
+    "answer": "Darth Sion"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who made the Sith Code?",
+    "answer": "Darth Vane"
+  },
+  {
+    "category": "Starwars",
+    "question": "What were the first lightsaber called?",
+    "answer": "Forcesaber"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who has a white lightsaber?",
+    "answer": "Ahsoka"
+  },
+  {
+    "category": "Starwars",
+    "question": "What color is Rey's lightsaber?",
+    "answer": "Blue"
+  },
+  {
+    "category": "Starwars",
+    "question": "What's blue lightsaber mean?",
+    "answer": "Jedi Guardian"
+  },
+  {
+    "category": "Starwars",
+    "question": "What's green lightsaber mean?",
+    "answer": "Jedi consular"
+  },
+  {
+    "category": "Starwars",
+    "question": "What's inside the every lightsaber handle?",
+    "answer": "kyber crystal"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who have twin lghtsaber as a gift from Darth Tyranous",
+    "answer": "Asajj Ventres"
+  },
+  {
+    "category": "Starwars",
+    "question": "What an insect-like species lives in undergroud",
+    "answer": "GEONOSIANS"
+  },
+  {
+    "category": "Starwars",
+    "question": "How many battalion does Darth Vader's leads to attack Jedi Temple?",
+    "answer": "501"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is a skilled pilot owned a ARC-170 starfighter Ship?",
+    "answer": "Jedi Master Plo Koon"
+  },
+  {
+    "category": "Starwars",
+    "question": "What's inside the Jedi Temple on Coruscant?",
+    "answer": "Holocron Vault"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is the Lord in the Sith Empire?",
+    "answer": "Darth Malgus"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who established the first Great Sith Emperor?",
+    "answer": "Dark Jedi"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is a Jedi knight who was turned to the darkside by the Sith emperor?",
+    "answer": "Darth Revan"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is a loyal Imperial officer that beacame a Rouge shadows pilot?",
+    "answer": "Juno Eclipse"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is the title given to the ruler of the planet Geonosi?",
+    "answer": "Archduke"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is someone that hired to destroy people for money?",
+    "answer": "bounty hunter"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is something that is half mechanical, half biological?",
+    "answer": "CYBERNATIC"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is the title given to the head of the Republic?",
+    "answer": "Chancellor"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is the series of Galaxy-wide battles?",
+    "answer": "Clone Wars"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is a being that partly a living organism and partly a robot?",
+    "answer": "Cyborg"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is an enormous Imperial battle Station?",
+    "answer": "Death Star"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is the ruler of the Empire?",
+    "answer": "Emperor"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is the Capital of the Republic?",
+    "answer": "Coruscant"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is tyrannical power that rules the galaxy?",
+    "answer": "Empire"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is ancient organization that promotes peace and justice?",
+    "answer": "Jedi Order"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is a sword-like weapon with a blade of pure energy?",
+    "answer": "Lightsaber"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is an order given by Chancellor Palpatine during Clone Wars?",
+    "answer": "order 66"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is called of a Jedi member that studies the light side of the force?",
+    "answer": "Jedi"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is called of twelve Senior Jedi that makes important decisions?",
+    "answer": "Jedi council"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is called of an extra dimension of space?",
+    "answer": "Hyberspace"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is deadly rays of blue energy used as a weapon?",
+    "answer": "Force Lightning"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is called of an Alliance of those who are opposed to the Republic?",
+    "answer": "Separatist"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is called of the leader of the Trade Federation?",
+    "answer": "Viceroy"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is the organization that resist and fights the Empire?",
+    "answer": "Rebel Alliance"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is young Jedi Apprentice trained to become a fully pledged Jedi Knight?",
+    "answer": "Padawan"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is Tall, hairy creatures from planet kashyyyk?",
+    "answer": "Wookie"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is the headquarters of Jedi Order, located on the Conuscant?",
+    "answer": "Jedi Temple"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is an ancient sect of Force-sensitives?",
+    "answer": "Sith"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is an experienced and High-ranking Jedi?",
+    "answer": "Jedi Master"
+  },
+  {
+    "category": "Starwars",
+    "question": "How many years did Yoda trained Jedi?",
+    "answer": "800 years"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is a Jedi Master and head of the Jedi Council?",
+    "answer": "Kol Skywalker"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is the son of Kol Skywalker?",
+    "answer": "Cade Skywalker"
+  },
+  {
+    "category": "Starwars",
+    "question": "In what year did kol Skywalker reflected on his journals about Dart Sidious?",
+    "answer": "123 ABY"
+  },
+  {
+    "category": "Starwars",
+    "question": "What color is Leia Organa Solo lightsaber?",
+    "answer": "skyblue"
+  },
+  {
+    "category": "Starwars",
+    "question": "What color is the lightsaber of Jedi Temple Guards?",
+    "answer": "Yellow:double-bladed yellow"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is the the first character that wield white-bladed sabers?",
+    "answer": "Ahsoka Tano"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who has a unique amethyst plasma lightsaber?",
+    "answer": "Mace Windu"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is the Princess of the planet Aldeeran?",
+    "answer": "Princess Leia"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who raised Princess Leia?",
+    "answer": "Breha Organa"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is called of the main Antagonist in the Force Awakens?",
+    "answer": "Kylo Ren"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is Kylo Ren birth name?",
+    "answer": "Ben"
+  },
+  {
+    "category": "Starwars",
+    "question": "Where did Obi-Wan brings Padme?",
+    "answer": "Polis Massa"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is the twin brother of Leia?",
+    "answer": "Luke"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who serves as co-Pilot on solo's spaceship, the millennium Falcon?",
+    "answer": "Chewbacca"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is Chewbacca's wife?",
+    "answer": "Malla Tobuck"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is a force-sensitive female member of the Jedi High council?",
+    "answer": "Yaddle"
+  },
+  {
+    "category": "Starwars",
+    "question": "How long do wookie live for?",
+    "answer": "400"
+  },
+  {
+    "category": "Starwars",
+    "question": "What color is yaddles lightsaber?",
+    "answer": "Orange"
+  },
+  {
+    "category": "Starwars",
+    "question": "How old is chewbacca when he died?",
+    "answer": "234 years old"
+  },
+  {
+    "category": "Starwars",
+    "question": "How old is Han Solo in a New hope?",
+    "answer": "29"
+  },
+  {
+    "category": "Starwars",
+    "question": "How many lightsaber colors are there? ",
+    "answer": "7"
+  },
+  {
+    "category": "Starwars",
+    "question": "What color are Yoda's eyes?",
+    "answer": "Green"
+  },
+  {
+    "category": "Starwars",
+    "question": "What language does Jabba the hutt speak?",
+    "answer": "Huttese"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is the crime Lord who ruled a massive criminal Empire on Tatooine?",
+    "answer": "Jabba"
+  },
+  {
+    "category": "Starwars",
+    "question": "How tall is snoke?",
+    "answer": "Seven feet"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who was Darth Sidious Master?",
+    "answer": "Darth Plagueis"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who killed Master Sifo Dyas?",
+    "answer": "Count Dooku"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who trained Count Dooku as a Jedi?",
+    "answer": "Yoda"
+  },
+  {
+    "category": "Starwars",
+    "question": "Are Luke and Leia Twins?",
+    "answer": "yes"
+  },
+  {
+    "category": "Starwars",
+    "question": "What gives a Jedi his power?",
+    "answer": "Force"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is Jedi Religion?",
+    "answer": "Jediism"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is the symbol of the Jedi?",
+    "answer": "Jedi Order"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who was the last Jedi?",
+    "answer": "Luke Skywalker"
+  },
+  {
+    "category": "Starwars",
+    "question": "What kind of creature is Yoda?",
+    "answer": "Carnivorous Humanoids"
+  },
+  {
+    "category": "Starwars",
+    "question": "What fighting style did Darth Maul use?",
+    "answer": "Juyo"
+  },
+  {
+    "category": "Starwars",
+    "question": "What fighting style does Yoda use?",
+    "answer": "Ataru"
+  },
+  {
+    "category": "Starwars",
+    "question": "What are brown ball-shaped, multi tentacled creatures?",
+    "answer": "Vaapads"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who invented the double bladed lightsaber?",
+    "answer": "Savage Opress"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is a double bladed sword called?",
+    "answer": "double vibroblade"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who was the first Darth?",
+    "answer": "Daryh Andeddu"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who played Anakin Skywalker's ghost Eposode 6?",
+    "answer": "Sebastian Shaw"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is Darth Maul's brother?",
+    "answer": "Savage Opress"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who was Darth Maul's mother?",
+    "answer": "Kycina"
+  },
+  {
+    "category": "Starwars",
+    "question": "Where does Darth Maul's born?",
+    "answer": "Iridonia"
+  },
+  {
+    "category": "Starwars",
+    "question": "Where does Yoda died?",
+    "answer": "Dagobah"
+  },
+  {
+    "category": "Starwars",
+    "question": "Where does Yaddle died?",
+    "answer": "Mawan"
+  },
+  {
+    "category": "Starwars",
+    "question": "Where does Obi Wan killed General Grievous?",
+    "answer": "Utapau"
+  },
+  {
+    "category": "Starwars",
+    "question": "How many lightsaber did General Grievous collect?",
+    "answer": "4"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who created and wielded purple lightsaber?",
+    "answer": "Ki-Adi-Mundi"
+  },
+  {
+    "category": "Starwars",
+    "question": "What color lightsaber does Plo Koon have?",
+    "answer": "Yellow"
+  },
+  {
+    "category": "Starwars",
+    "question": "What does a yellow lightsaber mean?",
+    "answer": "Jedi Sentinel"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is the face of Darth Vader?",
+    "answer": "Mark Hamill"
+  },
+  {
+    "category": "Starwars",
+    "question": "How old is Han Solo compared to Leia?",
+    "answer": "13"
+  },
+  {
+    "category": "Starwars",
+    "question": "How long was Luke Skywalker in exile?",
+    "answer": "14"
+  },
+  {
+    "category": "Starwars",
+    "question": "What planet does Luke Skywalker live?",
+    "answer": "Tatooine"
+  },
+  {
+    "category": "Starwars",
+    "question": "What are the English Protestants who occupied the extreme wing of Puritanism?",
+    "answer": "Separist"
+  },
+  {
+    "category": "Starwars",
+    "question": "How long did the clone was last?",
+    "answer": "3 years"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who crashed into the Super Star Destroyer?",
+    "answer": "Arvel Crynyd"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is the master of MAKASHI?",
+    "answer": "Count Dooku"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is the master of SORESU?",
+    "answer": "Obi-Wan Kenobi"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is the Jedi master of Satell Shan?",
+    "answer": "Kao Cen Darach"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who killed Qui-Gon Jinn in a Lightsaber duel?",
+    "answer": "Darth Maul"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is the only Jedi who became a Sith Lord?",
+    "answer": "Revan"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is a master of NIMAN?",
+    "answer": "Exar Kunn"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who killed Shaak Ti?",
+    "answer": "Darth Sidious"
+  },
+  {
+    "category": "Starwars",
+    "question": "What species is General Grievious?",
+    "answer": "Kadeesh"
+  },
+  {
+    "category": "Starwars",
+    "question": "What race is Ahsoka?",
+    "answer": "Padawan"
+  },
+  {
+    "category": "Starwars",
+    "question": "Which planet get destroyed in the force Awakens?",
+    "answer": "Hosnian Prime"
+  },
+  {
+    "category": "Starwars",
+    "question": "What planet did the Death Star Destroys?",
+    "answer": "Alderaan"
+  },
+  {
+    "category": "Starwars",
+    "question": "What planet was Starkiller base on?",
+    "answer": "Ice planet"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who does Darth Vader choke in a new hope?",
+    "answer": "Admiral Motti"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who destroyed Death Star 2?",
+    "answer": "Han Solo"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is the pilot of Millennium Falcon?",
+    "answer": "Lando Calrissian"
+  },
+  {
+    "category": "Starwars",
+    "question": "How long would it take to build a Death Star?",
+    "answer": "17 years"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who owns the Death Star?",
+    "answer": "Tarkin"
+  },
+  {
+    "category": "Starwars",
+    "question": "How much would it cost to make a death Star?",
+    "answer": "$852,000,000,000,000,000 "
+  },
+  {
+    "category": "Starwars",
+    "question": "How much would it cost to build the Millenium Falcon?",
+    "answer": "$2,474,132,337 "
+  },
+  {
+    "category": "Starwars",
+    "question": "How much would it cost to build a Starkiller?",
+    "answer": "$9.315 Quintillion"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is the death of a star called?",
+    "answer": "swollen"
+  },
+  {
+    "category": "Starwars",
+    "question": "What did luke skywalker used in destroying the Death Star?",
+    "answer": "Proton Torpedoes"
+  },
+  {
+    "category": "Starwars",
+    "question": "How does Death Star work?Where does it lies?",
+    "answer": "Superlaser"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is incharge of the Death Star?",
+    "answer": "Emperor Palpatine"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who destroyed Hosnian Prime?",
+    "answer": "Starkiller base"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is death Star called?",
+    "answer": "White dwarf"
+  },
+  {
+    "category": "Starwars",
+    "question": "Where does Darth Vader live?",
+    "answer": "Obsidian Tower"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is the death Star weapon?",
+    "answer": "Spherical Space Station"
+  },
+  {
+    "category": "Starwars",
+    "question": "What color is the death Star Laser?",
+    "answer": "Red"
+  },
+  {
+    "category": "Starwars",
+    "question": "How much did the Death Star weigh?",
+    "answer": "134 quadrillion tonnes"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who has a lightsaber that produce a violet blade when activated?",
+    "answer": "Mace Windu"
+  },
+  {
+    "category": "Starwars",
+    "question": "What does a blue lightsaber mean?",
+    "answer": "Jedi Guardian"
+  },
+  {
+    "category": "Starwars",
+    "question": "How tall is a Star Destroyer?",
+    "answer": "33.5 centimeters"
+  },
+  {
+    "category": "Starwars",
+    "question": "What destroyed the Death Star?",
+    "answer": "X-Wing"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who demonstrates Station power to destroy Aldeeran?",
+    "answer": "Grand Moff Tarkin"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who created the Death Star?",
+    "answer": "Bevel Lemelisk"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who uses white lightsaber?",
+    "answer": "Ahsoka"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is the largest ship in Starwars?",
+    "answer": "Eclipse"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is Darth Vader's Tie Fighter called?",
+    "answer": "TIE Advanced X1"
+  },
+  {
+    "category": "Starwars",
+    "question": "What does the color of Sith eyes?",
+    "answer": "yellow"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is the best ship in Star wsrs?",
+    "answer": "X-Wing"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who played Anakin Skywalker's ghost in episode 6?",
+    "answer": "Hayden Christensen"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who potrayed young Anakin?",
+    "answer": "Jake Lloyd"
+  },
+  {
+    "category": "Starwars",
+    "question": "What wad count Dooku's Jedi name?",
+    "answer": "Count of Sereno"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who was Mace Windu's master?",
+    "answer": "Grand master Yeda"
+  },
+  {
+    "category": "Starwars",
+    "question": "How much is Star wars franchise worth?",
+    "answer": "$7.5 billion"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who sees 3 ghosts at the end of Return of Jedi?",
+    "answer": "Luke"
+  },
+  {
+    "category": "Starwars",
+    "question": "What planet is the vibrant heart and capital of the galaxy?",
+    "answer": "Conuscant"
+  },
+  {
+    "category": "Starwars",
+    "question": "What planet was the site of the Rebel Alliance's Echo base?",
+    "answer": "Hoth"
+  },
+  {
+    "category": "Starwars",
+    "question": "What planet that is idyllic world close to the boarder of the outer rim terretories?",
+    "answer": "Naboo"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is called of the intelligent amphibians live in Naboo?",
+    "answer": "Gungans"
+  },
+  {
+    "category": "Starwars",
+    "question": "What planet is fictional planet ib Star Wars galaxy?",
+    "answer": "Yavin"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is the most influential planet?",
+    "answer": "Alderaan"
+  },
+  {
+    "category": "Starwars",
+    "question": "What planet is an Astrophysical rarity?",
+    "answer": "Bespin"
+  },
+  {
+    "category": "Starwars",
+    "question": "What planet is a tiny, fiery planet in the outer rim?",
+    "answer": "Mussfar"
+  },
+  {
+    "category": "Starwars",
+    "question": "What planet was a swamp-covered planet?",
+    "answer": "Dagobah"
+  },
+  {
+    "category": "Starwars",
+    "question": "What planet is the wookie homeworld, covered in dense forest?",
+    "answer": "Kashyyyk"
+  },
+  {
+    "category": "Starwars",
+    "question": "What are the weapons of wookies?",
+    "answer": "Bowcaster"
+  },
+  {
+    "category": "Starwars",
+    "question": "What are the weapons of Geonosian?",
+    "answer": "Geonosian Sonic Blaster"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is a lonely world beyond the outer rim and just south of the Rishi Maze?",
+    "answer": "Kamino"
+  },
+  {
+    "category": "Starwars",
+    "question": "What are the Species living in Kamino?",
+    "answer": "Kaminoan"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is the planet located in the galaxy's Core?",
+    "answer": "Corellia"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is the weapon of Corellians?",
+    "answer": "Rebolt's Staff"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is the popular vessel of Corellia?",
+    "answer": "Millenium Falcon"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is the planet filled with lush forests and green landscapes?",
+    "answer": "Dantooine"
+  },
+  {
+    "category": "Starwars",
+    "question": "When was the released of \"The last Jedi\"?",
+    "answer": "14-Dec-17"
+  },
+  {
+    "category": "Starwars",
+    "question": "How far are the distance of Dantooine from Core?",
+    "answer": "45, 000 light years"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is the native species of Dantooine?",
+    "answer": "Dantari"
+  },
+  {
+    "category": "Starwars",
+    "question": "What are the Sun's name in Dantooine?",
+    "answer": "Dina"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is the planet located in the outer rim near Tatooine?",
+    "answer": "Ryloth"
+  },
+  {
+    "category": "Starwars",
+    "question": "What are the humanoids Species living in Ryloth?",
+    "answer": "Twi'leks"
+  },
+  {
+    "category": "Starwars",
+    "question": "When was the released of \"Clone Wars\"?",
+    "answer": "27-Feb-09"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is the Director?",
+    "answer": "Bruan Kalin O'Connel"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is the writer?",
+    "answer": "George Krstic"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is the nineteenth episode of season 1 of the clone wars?",
+    "answer": "Storm over Ryloth"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is a beautiful aquatic world filled with lush coral reefs?",
+    "answer": "Mon Calamari"
+  },
+  {
+    "category": "Starwars",
+    "question": "What race is Cod Bane?",
+    "answer": "Hunter"
+  },
+  {
+    "category": "Starwars",
+    "question": "How long Luke training with Yoda?",
+    "answer": "6 months"
+  },
+  {
+    "category": "Starwars",
+    "question": "How old do Jedi start training?",
+    "answer": "4 years old"
+  },
+  {
+    "category": "Starwars",
+    "question": "How long does it takes to become a Jedi?",
+    "answer": "2 years minimum"
+  },
+  {
+    "category": "Starwars",
+    "question": "How long does it take to become a knights?",
+    "answer": "six years"
+  },
+  {
+    "category": "Starwars",
+    "question": "Where did the knights live?",
+    "answer": "Castles"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is an alarming sight standing within a secret rebel base?",
+    "answer": "K-2S0"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is the veterans commander that led defense of his homeworld?",
+    "answer": "Admiral Ackbar"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is a Grim Jedi Master with an amethyst-bladed lightsaber?",
+    "answer": "Mace Windu"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who was a Rodian bounty hunter?",
+    "answer": "Greedo"
+  },
+  {
+    "category": "Starwars",
+    "question": "What are the meter tall humanoids completely hidden behind rough, hand woven robes?",
+    "answer": "Jawas "
+  },
+  {
+    "category": "Starwars",
+    "question": "What is a droid programmed for etiquette and protocol?",
+    "answer": "C-3PO"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is espoused a philodophy of 'feel, don't think-use your instinct?",
+    "answer": "Qui-Gon Jinn"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is a courageous, hopeful leader, serving as Queen and Senator of Naboo?",
+    "answer": "Padme Amidala"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is a resourceful astromech droid, showed great bravery in rescuing his masters from many ferils?",
+    "answer": "R2-D2"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is a smuggler, scoundrel Hero and Captain of the Millennium Falcon?",
+    "answer": "Han Solo"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who was Prophesied a chosen one, and would bring balance to the Force?",
+    "answer": "Anakin Skywalker"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who had customized Mandalorian armor, deadly weaponry, and silent demeanor?",
+    "answer": "Boba Fett"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who was a Tatooin farmboy who rose from humble beginnings and became one of the greatest Jedi?",
+    "answer": "Luke Skywalker"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is the daughter of Padme Amidala and one of the Rebel Alliance's leaders?",
+    "answer": "Leia Organa"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is the leader of the first order and a student of Supreme Leader Snoke?",
+    "answer": "Kylo Ren"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is a fictional soldier in Star Wars",
+    "answer": "Stormtrooper"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is scheming, powerful and evil to the core?",
+    "answer": "Sheev Palpatine"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is a commander in the Resistance's Starfighter Corps and one of Leia Organa's most trusted operatives? ",
+    "answer": "Poe Dameron"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who was trained since birth to serve the first order as a stormtrooper?",
+    "answer": "FN-2187"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is an ambitious, ruthless proponent of military power?",
+    "answer": "Wilhuff Tarkin"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is one of the galaxy's most powerful gangsters with far-reaching influence in politics and criminal under world?",
+    "answer": "Jabba the Hutt"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is Jakku Scavenger, a survivor toughened by life on a trash desert planet?",
+    "answer": "Rey"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is legendary Jedi Master and stronger than most in his connection with the force?",
+    "answer": "Yoda"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is a legendary Jedi Master, A noble man and gifted in the ways of the force?",
+    "answer": "Obi-Wan Kenobi"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is a skittish but loyal astromech, accompanied Poe Dameron on many missions for the resistance?",
+    "answer": "BB-8"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is legendary wookies warrior and Han Solo's co-pilot aboard the Millennium Falcon?",
+    "answer": "Chewbaca"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is Star Wars vehicle that has played a role in some of the greatest victories of the Rebel Alliance?",
+    "answer": "Millennium Falcon"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is a versatole Rebel Alliance Starfighter that balances speed with firepower?",
+    "answer": "X-Wing Starfighter"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is a four-legged transport and combat vehicle used by the Imperial ground forces?",
+    "answer": "All Terrain Armored Transport(AT-AT)"
+  },
+  {
+    "category": "Starwars",
+    "question": "What are single-pilot vehicles designed for fast-paced dogfights with Rebel X-Wings and other Starfightersm",
+    "answer": "TIE Fighter"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is the Capital Ship bristling with weapons emplacements turbo lasers and tractor beam projectors do its surface?",
+    "answer": "Star Destroyer"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is a workhorse starfighter that has been in use since the clone wars?",
+    "answer": "Y-Wing"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is the maximum atmospheric speed of Y-Wing?",
+    "answer": "621 mph"
+  },
+  {
+    "category": "Starwars",
+    "question": "When was the Y-Wing first Appeared?",
+    "answer": "A New Hope"
+  },
+  {
+    "category": "Starwars",
+    "question": "What vehicle is infamous because of it association with Jango Fett?",
+    "answer": "Slave 1"
+  },
+  {
+    "category": "Starwars",
+    "question": "What are huge treaded Fortresses used by Jawas as transportation and Shelter?",
+    "answer": "Sandcrawler"
+  },
+  {
+    "category": "Starwars",
+    "question": "What vehicle are common sights throughout the galaxy?",
+    "answer": "Spender Bike"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is Aldeeran Cruiser used both by Bail Organa and Leia on Public Missions?",
+    "answer": "Tantive IV"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is the maximum atmospheric speed of Tantive IV?",
+    "answer": "590 mph"
+  },
+  {
+    "category": "Starwars",
+    "question": "What immense vehicles was a startling contrast to the straight-lined shapes favored by the Imperial fleet?",
+    "answer": "Mon Calamari Cruiser"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is a bulky, aggresive ship covered with weapons?",
+    "answer": "ARC-170 Starfighter"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is use to drop vast quantities of munitions on rebellious planets and targets in space?",
+    "answer": "TIE Bomber"
+  },
+  {
+    "category": "Starwars",
+    "question": "What vehicle has a sleek design that exemplifies the philosophy of art?",
+    "answer": "Naboo N-1 Starfighter"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is a speeder bike manufactured by Aratech Repulsor Company?",
+    "answer": "BARC Speeder"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is a well-armed swing-wing vessels that must Penetrate heavy fire Zones to deposit soldiers onto battlefields?",
+    "answer": "U-Wing"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is a fittibgly fearsome vessel for its deadky Pilot and a personal starship of Darth Maul?",
+    "answer": "Sith Infiltrator"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is a high-performance airspeeder capable of reaching a planet's troposphere?",
+    "answer": "T-16 Skyhopper"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is the maximum speed of T-16 Skyhopper?",
+    "answer": "746 mph"
+  },
+  {
+    "category": "Starwars",
+    "question": "What vehicle boasts a strikingly beautiful design and embodies the craftmanship?",
+    "answer": "Naboo Royal Starship"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is one of the largest, most powerful Imperial vessels ever craeted?",
+    "answer": "Super Star Destroyer"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is fastest, maneuverable starfighter, saw service during the Clone Wars in battles above planet?",
+    "answer": "V-19 Torrent"
+  },
+  {
+    "category": "Starwars",
+    "question": "What vehicle have blaster cannons and has used and piloted by Darth Vader?",
+    "answer": "Darth Vader's TIE Fighter"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is a Baleen-class bulk freighter used by Han Solo and Chewbaca to move cargoes?",
+    "answer": "The Eravana"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is an Arquitens-class light cruiser, double threat, bot powerful and fast?",
+    "answer": "Imperial Light Cruiser"
+  },
+  {
+    "category": "Starwars",
+    "question": "What fighter smaller than Standard Jedi Fighter, featured an astomech droid socket set aft of the cockpit and above it?",
+    "answer": "Yoda's fighter"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is formidable craft, trailor-made for combat, featuring wing-mounted laser cannons?",
+    "answer": "Fang Fighter"
+  },
+  {
+    "category": "Starwars",
+    "question": "What vehicle owned by Luke Skywalker that is nondescript but speedy lanspeeders?",
+    "answer": "X-34 Landspeeder"
+  },
+  {
+    "category": "Starwars",
+    "question": "What vehicle features a dedicated cargo bed for the transportation of heavy building,materials or combat munitions?",
+    "answer": "AT-ACT Walker"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is pared-down crescent-shaped converyance, very utilitarian craft?",
+    "answer": "Sith Speeder"
+  },
+  {
+    "category": "Starwars",
+    "question": "What vehicle had a distinct yellow color scheme, clearly delineating that they were not in direct service of the Empire?",
+    "answer": "Mining Guild TIE Fighter"
+  },
+  {
+    "category": "Starwars",
+    "question": "What vehicle developed and honef for ship-to-ship combat?",
+    "answer": "Republic Attack Cruiser"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is the Maximum Atmospheric Speed of Republic Attack Cruiser?",
+    "answer": "606 mph"
+  },
+  {
+    "category": "Starwars",
+    "question": "What vehicle is a converted diplomatic cruiser ready for combat?",
+    "answer": "Republic Frigate"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is a custom-built J-Type diplomatic barge, carried no armament?",
+    "answer": "Naboo Royal Cruiser"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is a shuttle, ferrying commuters from one location to another?",
+    "answer": "GXI Short Hauler"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is wedge-shaped one-nan starfighter built for the Jedi Order?",
+    "answer": "Delt-7 Jedi Starfighter"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is commonly used ad consular ships on diplomatic missions?",
+    "answer": "Aldeeran Cruiser"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is the oddest-looking Starfihhter on the Rebel Alliance fleet?",
+    "answer": "B-Wing Fighter"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is a personnal conveyance vehicle of a battlefield commander?",
+    "answer": "General Grieviou's Speeder"
+  },
+  {
+    "category": "Starwars",
+    "question": "What vehicle serve multiple functions during tge Clone Wars?",
+    "answer": "Republic Attack Shuttle"
+  },
+  {
+    "category": "Starwars",
+    "question": "What vehicle serve as significant addition to the Imperial side of battlefields in the Galactic Civil War?",
+    "answer": "All Terrain Scout Transport Walker"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is a Gauntlet Starfighter in the Mandalorian tradition, but customized with a black and red color scheme?",
+    "answer": "The Nightbrother"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is a roughly Cylindrical Warship?",
+    "answer": "Separist Dreadnought"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is a military version of a civillian transport, proved critical to the rebel retreat from Hoth?",
+    "answer": "GR-75 Medium Transport"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is the most intuitively-designed ship in the galaxy?",
+    "answer": "Umbaran Starfighter"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is a modified freighter commanded by the dread pirate Sidon Ithano?",
+    "answer": "Messon Mertinet"
+  },
+  {
+    "category": "Starwars",
+    "question": "What is the enermous vessels resemble flattened disks with a central sphere containing the ships bridge and reactor assembles?",
+    "answer": "Trade Federation Battleshop"
+  },
+  {
+    "category": "Starwars",
+    "question": "What vehicle was first deployed in the final days of the Republic?",
+    "answer": "V-Wing Fighter"
+  },
+  {
+    "category": "Starwars",
+    "question": "What vehicle is slim, twin-hulled vehicles combine traditional wookie craftmanship with advance Technology?",
+    "answer": "Wookie Catamaran"
+  },
+  {
+    "category": "Starwars",
+    "question": "What vehicle was designed to haul large numbers of crates and containers from port to port?",
+    "answer": "Imperial Cargo Ship"
+  },
+  {
+    "category": "Starwars",
+    "question": "What vehicle designed by the Zebulon Dak Speeder Corporation, stored on the Ghost and used for supply runs?",
+    "answer": "Kanan's Speeder Bike"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is scheming, powerful and evil to the core, restored the Sith and destroyed the Jedi Order?",
+    "answer": "Sheev Palpatine"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is the Supreme Leader of the First order?",
+    "answer": "Supreme Leader Snoke"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is one of the most feared bounty hunters in the galaxy?",
+    "answer": "Boba Fett"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who commands First Order Missions with a temper as fury as his unconventional lightsaber?",
+    "answer": "Kylo Ren"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is menacing Sith Lord and central figure in the Clone Wars?",
+    "answer": "Count Dooku"
+  },
+  {
+    "category": "Starwars",
+    "question": "Who is young, ruthless, officer in the First Order, completes confidence in his troops, training methods and weapons?",
+    "answer": "General Hux"
+  }
+ ]

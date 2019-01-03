@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		D915BE9E21CB3CDA00F40112 /* GameResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D915BE9D21CB3CDA00F40112 /* GameResultsViewController.swift */; };
+		D9167D6B21DC3C82008AF3A0 /* CustomFonts.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9167D6A21DC3C82008AF3A0 /* CustomFonts.swift */; };
 		D9292B8E21C886F800065BB9 /* AnswerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9292B8D21C886F800065BB9 /* AnswerViewController.swift */; };
 		D9708FA821DBE7210057836C /* LiquidCrystal-LightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = D9708FA421DBE12A0057836C /* LiquidCrystal-LightItalic.otf */; };
 		D9708FA921DBE7240057836C /* GameOfThrones.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D9708FA621DBE1360057836C /* GameOfThrones.ttf */; };
@@ -32,6 +33,7 @@
 
 /* Begin PBXFileReference section */
 		D915BE9D21CB3CDA00F40112 /* GameResultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameResultsViewController.swift; sourceTree = "<group>"; };
+		D9167D6A21DC3C82008AF3A0 /* CustomFonts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomFonts.swift; sourceTree = "<group>"; };
 		D9292B8D21C886F800065BB9 /* AnswerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnswerViewController.swift; sourceTree = "<group>"; };
 		D9708FA421DBE12A0057836C /* LiquidCrystal-LightItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "LiquidCrystal-LightItalic.otf"; path = "TriviaGeek/New Group/LiquidCrystal-LightItalic.otf"; sourceTree = SOURCE_ROOT; };
 		D9708FA521DBE1360057836C /* ParryHotter.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = ParryHotter.ttf; path = "TriviaGeek/New Group/ParryHotter.ttf"; sourceTree = SOURCE_ROOT; };
@@ -102,6 +104,7 @@
 				F22E18FE217BAF0600D0D3CB /* ConvertJSON.swift */,
 				F22E1900217BB10500D0D3CB /* Questions.swift */,
 				F22E18E7217BAE3000D0D3CB /* Main.storyboard */,
+				D9167D6A21DC3C82008AF3A0 /* CustomFonts.swift */,
 				D915BE9D21CB3CDA00F40112 /* GameResultsViewController.swift */,
 				D9292B8D21C886F800065BB9 /* AnswerViewController.swift */,
 				F2D2F2BA2187DBE40068A44C /* CategoryViewController.swift */,
@@ -215,6 +218,7 @@
 				D9292B8E21C886F800065BB9 /* AnswerViewController.swift in Sources */,
 				F22E18E4217BAE3000D0D3CB /* AppDelegate.swift in Sources */,
 				F2D2F2BB2187DBE40068A44C /* CategoryViewController.swift in Sources */,
+				D9167D6B21DC3C82008AF3A0 /* CustomFonts.swift in Sources */,
 				D915BE9E21CB3CDA00F40112 /* GameResultsViewController.swift in Sources */,
 				F22E18FF217BAF0600D0D3CB /* ConvertJSON.swift in Sources */,
 			);
