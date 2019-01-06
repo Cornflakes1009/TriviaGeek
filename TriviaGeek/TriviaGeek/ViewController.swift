@@ -7,13 +7,10 @@ class ViewController: UIViewController, UITextFieldDelegate {
     }
     
     // function for dismissing the keyboard when clicking done - requires UITextFieldDelegate subclass and textFieldName.delegate = self added in ViewDidLoad
-    
     func textFieldShouldReturn(_ textField: UITextField) -> Bool {
         self.view.endEditing(true)
         return false
     }
-    
-    
 
     @IBOutlet weak var enterTeamName: UITextField!
     @IBOutlet weak var teamLabelOne: UILabel!
@@ -32,16 +29,13 @@ class ViewController: UIViewController, UITextFieldDelegate {
         }
         enterTeamName.text = nil
         
-        if teams.count >= 2 {
-            chooseCategoryLabel.isEnabled = true
-            chooseCategoryLabel.backgroundColor = #colorLiteral(red: 0, green: 0.4784313725, blue: 1, alpha: 1)
-            chooseCategoryLabel.setTitleColor(#colorLiteral(red: 1.0, green: 1.0, blue: 1.0, alpha: 1.0), for: .normal)
-            chooseCategoryLabel.isHidden = false
-        }
         if teams.count == 4 {
             addTeamLabel.isEnabled = false
+        } else if teams.count >= 2 {
+            chooseCategoryLabel.isHidden = false
         }
-        // dismisses keyboard when button pressed
+        
+        // dismisses keyboard when addTeamBtn pressed
         enterTeamName.resignFirstResponder()
         updateTeamLabels()
     }
@@ -64,16 +58,10 @@ class ViewController: UIViewController, UITextFieldDelegate {
         if teams.count == 1 {
             teamLabelOne.text = teams[0].teamName
         } else if teams.count == 2 {
-            teamLabelOne.text = teams[0].teamName
             teamLabelTwo.text = teams[1].teamName
         } else if teams.count == 3 {
-            teamLabelOne.text = teams[0].teamName
-            teamLabelTwo.text = teams[1].teamName
             teamLabelThree.text = teams[2].teamName
         } else if teams.count == 4 {
-            teamLabelOne.text = teams[0].teamName
-            teamLabelTwo.text = teams[1].teamName
-            teamLabelThree.text = teams[2].teamName
             teamLabelFour.text = teams[3].teamName
         }
     }

@@ -24,7 +24,6 @@ class AnswerViewController: UIViewController {
 
     
     @IBAction func correctButtonTouched(_ sender: Any) {
-        
         if correct == false {
             nextQuestionLabel.isHidden = false
             correct = true
@@ -38,7 +37,6 @@ class AnswerViewController: UIViewController {
     }
     
     @IBAction func incorrectButtonTouched(_ sender: Any) {
-        
         if incorrect == false {
             nextQuestionLabel.isHidden = false
             incorrect = true

@@ -10,14 +10,8 @@ class CategoryViewController: UIViewController {
     
     func checkNumberOfCategories() {
         if(numberOfCategories > 0) {
-//            submitBtnLabel.isEnabled = true
-//            submitBtnLabel.setTitleColor(#colorLiteral(red: 1.0, green: 1.0, blue: 1.0, alpha: 1.0), for: .normal)
-//            submitBtnLabel.backgroundColor = #colorLiteral(red: 0, green: 0.4784313725, blue: 1, alpha: 1)
             submitBtnLabel.isHidden = false
         } else {
-//            submitBtnLabel.isEnabled = false
-//            submitBtnLabel.setTitleColor(#colorLiteral(red: 0.8039215803, green: 0.8039215803, blue: 0.8039215803, alpha: 1), for: .normal)
-//            submitBtnLabel.backgroundColor = #colorLiteral(red: 0, green: 0, blue: 0.8821885851, alpha: 1)
             submitBtnLabel.isHidden = true
         }
     }
@@ -31,33 +25,22 @@ class CategoryViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-//        submitBtnLabel.isEnabled = false
-//        submitBtnLabel.setTitleColor(#colorLiteral(red: 0.8039215803, green: 0.8039215803, blue: 0.8039215803, alpha: 1), for: .normal)
-//        submitBtnLabel.backgroundColor = #colorLiteral(red: 0, green: 0, blue: 0.8821885851, alpha: 1)
         submitBtnLabel.isHidden = true
         
         // styling Harry Potter button
-        harryPotterCategoryLabel.layer.borderWidth = 1.0
-        harryPotterCategoryLabel.layer.borderColor = UIColor.yellow.cgColor
         harryPotterCategoryLabel.titleEdgeInsets = UIEdgeInsetsMake(10, 0, 0, 0)
-        
-        // styling Game of Thrones button
-//        gameOfThronesCategoryLabel.layer.borderWidth = 1.0
-//        gameOfThronesCategoryLabel.layer.borderColor = UIColor.darkGray.cgColor
+        setBorder(on: harryPotterCategoryLabel)
 
         // styling Star Wars button
-        starWarsCategoryLabel.layer.borderWidth = 2.0
-        starWarsCategoryLabel.layer.borderColor = UIColor.blue.cgColor
+        setBorder(on: starWarsCategoryLabel)
         starWarsCategoryLabel.titleEdgeInsets = UIEdgeInsetsMake(0, 0, 7, 0)
         
         // styling Comic Book Movies button
         comicBookMoviesCategoryLabel.titleEdgeInsets = UIEdgeInsetsMake(5, 0, 0, 0)
         
-        gameOfThronesCategoryLabel.layer.cornerRadius = 8.0
-        gameOfThronesCategoryLabel.layer.masksToBounds = true
         //////// disabling buttons until I get more JSON
-        comicBookMoviesCategoryLabel.isEnabled = false
-        gameOfThronesCategoryLabel.isEnabled = false
+        comicBookMoviesCategoryLabel.isEnabled = true
+        gameOfThronesCategoryLabel.isEnabled = true
         
     }
     
@@ -68,12 +51,15 @@ class CategoryViewController: UIViewController {
         
         if(harryPotterSelected == true) {
             harryPotterSelected = false
-//            harryPotterCategoryLabel.backgroundColor = #colorLiteral(red: 0, green: 0.4784313725, blue: 1, alpha: 1)
+            harryPotterCategoryLabel.backgroundColor = #colorLiteral(red: 0, green: 0, blue: 0, alpha: 1)
             numberOfCategories -= 1
+            harryPotterCategoryLabel.setTitleColor(#colorLiteral(red: 0.9994240403, green: 0.9855536819, blue: 0, alpha: 1), for: .normal)
+            setBorder(on: harryPotterCategoryLabel)
         } else{
             harryPotterSelected = true
-//            harryPotterCategoryLabel.backgroundColor = #colorLiteral(red: 0.1215686277, green: 0.01176470611, blue: 0.4235294163, alpha: 1)
             numberOfCategories += 1
+            setBtnCheckedProperties(on: harryPotterCategoryLabel)
+            removeBorder(on: harryPotterCategoryLabel)
         }
         checkNumberOfCategories()
     }
@@ -81,11 +67,13 @@ class CategoryViewController: UIViewController {
     @IBAction func gameOfThronesBtnClicked(_ sender: Any) {
         if(gameOfThronesSelected == true) {
             gameOfThronesSelected = false
-//            gameOfThronesCategoryLabel.backgroundColor = #colorLiteral(red: 0, green: 0.4784313725, blue: 1, alpha: 1)
+            gameOfThronesCategoryLabel.backgroundColor = #colorLiteral(red: 0.1411764771, green: 0.3960784376, blue: 0.5647059083, alpha: 1) // hex 246590
+            gameOfThronesCategoryLabel.setTitleColor(#colorLiteral(red: 1.0, green: 1.0, blue: 1.0, alpha: 1.0), for: .normal)
+
             numberOfCategories -= 1
         } else{
             gameOfThronesSelected = true
-//            gameOfThronesCategoryLabel.backgroundColor = #colorLiteral(red: 0.1215686277, green: 0.01176470611, blue: 0.4235294163, alpha: 1)
+            setBtnCheckedProperties(on: gameOfThronesCategoryLabel)
             numberOfCategories += 1
         }
         checkNumberOfCategories()
@@ -94,12 +82,15 @@ class CategoryViewController: UIViewController {
     @IBAction func starWarsBtnClicked(_ sender: Any) {
         if(starWarsSelected == true) {
             starWarsSelected = false
-//            starWarsCategoryLabel.backgroundColor = #colorLiteral(red: 0, green: 0.4784313725, blue: 1, alpha: 1)
+            starWarsCategoryLabel.backgroundColor = #colorLiteral(red: 0, green: 0, blue: 0, alpha: 1)
+            starWarsCategoryLabel.setTitleColor(#colorLiteral(red: 0, green: 0.5882352941, blue: 1, alpha: 1), for: .normal) // hex 0096FF
             numberOfCategories -= 1
+            setBorder(on: starWarsCategoryLabel)
         } else{
             starWarsSelected = true
-//            starWarsCategoryLabel.backgroundColor = #colorLiteral(red: 0.1215686277, green: 0.01176470611, blue: 0.4235294163, alpha: 1)
+            setBtnCheckedProperties(on: starWarsCategoryLabel)
             numberOfCategories += 1
+            removeBorder(on: starWarsCategoryLabel)
         }
         checkNumberOfCategories()
     }
@@ -107,11 +98,12 @@ class CategoryViewController: UIViewController {
     @IBAction func comicBookMoviesBtnClicked(_ sender: Any) {
         if(comicBookMoviesSelected == true) {
             comicBookMoviesSelected = false
-//            comicBookMoviesCategoryLabel.backgroundColor = #colorLiteral(red: 0, green: 0.4784313725, blue: 1, alpha: 1)
+            comicBookMoviesCategoryLabel.backgroundColor = #colorLiteral(red: 0.9725490196, green: 0.1607843137, blue: 0.03921568627, alpha: 1) // hex F8290A
+            comicBookMoviesCategoryLabel.setTitleColor(#colorLiteral(red: 1.0, green: 1.0, blue: 1.0, alpha: 1.0), for: .normal)
             numberOfCategories -= 1
         } else{
             comicBookMoviesSelected = true
-//            comicBookMoviesCategoryLabel.backgroundColor = #colorLiteral(red: 0.1215686277, green: 0.01176470611, blue: 0.4235294163, alpha: 1)
+            setBtnCheckedProperties(on: comicBookMoviesCategoryLabel)
             numberOfCategories += 1
         }
         checkNumberOfCategories()
@@ -139,5 +131,28 @@ class CategoryViewController: UIViewController {
         performSegue(withIdentifier: "loadQuestionVC", sender: self)
     }
     
+    
+    // sets text and background color when a button is checked
+    func setBtnCheckedProperties(on button: UIButton) {
+        button.backgroundColor = #colorLiteral(red: 0.1647058824, green: 0.2039215686, blue: 0.2705882353, alpha: 1)
+        button.setTitleColor(#colorLiteral(red: 0.6000000238, green: 0.6000000238, blue: 0.6000000238, alpha: 1), for: .normal)
+    }
+    
+    // sets the border of the button - done for toggling if the button has been selected
+    func setBorder(on button: UIButton) {
+        if(button.currentTitle == "Harry Potter") {
+            button.layer.borderWidth = 1.0
+            button.layer.borderColor = UIColor.yellow.cgColor
+        } else if(button.currentTitle == "Star Wars") {
+            button.layer.borderWidth = 2.0
+            button.layer.borderColor = UIColor.blue.cgColor
+        }
+        
+    }
+    // removes the borders - done for toggling if button has been selected
+    func removeBorder(on button: UIButton) {
+        button.layer.borderColor = nil
+        button.layer.borderColor = nil
+    }
     
 }
