@@ -19,6 +19,15 @@ class ViewController: UIViewController, UITextFieldDelegate {
     @IBOutlet weak var teamLabelFour: UILabel!
     @IBOutlet weak var addTeamLabel: UIButton!
     @IBOutlet weak var chooseCategoryLabel: UIButton!
+
+    // method for limiting the number of characters in textfield
+    func textField(_ textField: UITextField, shouldChangeCharactersIn range: NSRange, replacementString string: String) -> Bool {
+        let currentText = enterTeamName.text ?? ""
+        guard let stringRange = Range(range, in: currentText) else { return false }
+        let updatedText = currentText.replacingCharacters(in: stringRange, with: string)
+        return updatedText.count <= 12
+    }
+    
     
     @IBAction func addTeamBtn(_ sender: Any) {
         let teamTypedIn = enterTeamName.text?.trim()

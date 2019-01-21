@@ -3,28 +3,24 @@ import UIKit
 class QuestionViewController: UIViewController {
 
     @IBOutlet weak var teamNameLabel: UILabel!
-    @IBOutlet weak var timerLabel: UILabel!
     @IBOutlet weak var startTimerLabel: UIButton!
     @IBOutlet weak var questionLabel: UILabel!
     @IBOutlet weak var categoryLabel: UILabel!
     
-    
-    let questionCategory = questionsToAnswer[currentQuestion].category
-    
-    // timer methods and instance variables
     var seconds = 15
     var timerIsRunning = false
     var timer = Timer()
     
     @objc func updateTimer() {
-        if seconds > 0 {
+        if seconds >= 0 {
+            startTimerLabel.setTitle("\(seconds).0", for: .normal)
             seconds -= 1
-            timerLabel.text = "\(seconds).0"
         }
     }
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        let questionCategory = questionsToAnswer[currentQuestion].category
         categoryLabel.text = questionCategory
         questionLabel.text = questionsToAnswer[currentQuestion].question
         teamNameLabel.text = teams[currentTeam].teamName

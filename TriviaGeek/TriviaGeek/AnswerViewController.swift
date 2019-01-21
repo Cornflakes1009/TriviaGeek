@@ -14,12 +14,28 @@ class AnswerViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        let questionCategory = questionsToAnswer[currentQuestion].category
         teamLabel.text = teams[currentTeam].teamName
         categoryLabel.text = questionsToAnswer[currentQuestion].category
         questionLabel.text = questionsToAnswer[currentQuestion].question
         answerLabel.text = questionsToAnswer[currentQuestion].answer
         nextQuestionLabel.isHidden = true
         currentQuestion += 1
+        
+        
+        
+        if(questionCategory == "Harry Potter") {
+            setFont(labelToUpdate: categoryLabel, fontName: "Parry Hotter", fontSize: 50, fontColor: #colorLiteral(red: 0.9994240403, green: 0.9855536819, blue: 0, alpha: 1)) // color is lemon
+        }
+        if(questionCategory == "Starwars") {
+            setFont(labelToUpdate: categoryLabel, fontName: "StarJediHollow", fontSize: 50, fontColor: #colorLiteral(red: 0, green: 0.4784313725, blue: 1, alpha: 1))
+        }
+        if(questionCategory == "Game of Thrones") {
+            setFont(labelToUpdate: categoryLabel, fontName: "Game of Thrones", fontSize: 27, fontColor: #colorLiteral(red: 1.0, green: 1.0, blue: 1.0, alpha: 1.0))
+        }
+        if (questionCategory == "Comic Book Movies") {
+            setFont(labelToUpdate: categoryLabel, fontName: "Homoarakhn", fontSize: 50, fontColor: #colorLiteral(red: 1.0, green: 1.0, blue: 1.0, alpha: 1.0))
+        }
     }
 
     
