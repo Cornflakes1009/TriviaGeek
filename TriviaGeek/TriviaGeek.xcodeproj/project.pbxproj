@@ -7,9 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		98F0C319086F4300939AABF8 /* Pods_TriviaGeek.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B0A6DCBB8443EE7B05BE7AFC /* Pods_TriviaGeek.framework */; };
 		D915BE9E21CB3CDA00F40112 /* GameResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D915BE9D21CB3CDA00F40112 /* GameResultsViewController.swift */; };
 		D9167D6B21DC3C82008AF3A0 /* CustomFonts.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9167D6A21DC3C82008AF3A0 /* CustomFonts.swift */; };
 		D9292B8E21C886F800065BB9 /* AnswerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9292B8D21C886F800065BB9 /* AnswerViewController.swift */; };
+		D9305EED2234AD15004637C3 /* Comets.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9305EEC2234AD15004637C3 /* Comets.swift */; };
 		D9708FA821DBE7210057836C /* LiquidCrystal-LightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = D9708FA421DBE12A0057836C /* LiquidCrystal-LightItalic.otf */; };
 		D9708FA921DBE7240057836C /* GameOfThrones.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D9708FA621DBE1360057836C /* GameOfThrones.ttf */; };
 		D9708FAA21DBE7280057836C /* ParryHotter.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D9708FA521DBE1360057836C /* ParryHotter.ttf */; };
@@ -32,9 +34,13 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1F6A539312C56A5B6608CF5C /* Pods-TriviaGeek.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TriviaGeek.debug.xcconfig"; path = "Target Support Files/Pods-TriviaGeek/Pods-TriviaGeek.debug.xcconfig"; sourceTree = "<group>"; };
+		A6C94073C1826A9A3FF2E8A1 /* Pods-TriviaGeek.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TriviaGeek.release.xcconfig"; path = "Target Support Files/Pods-TriviaGeek/Pods-TriviaGeek.release.xcconfig"; sourceTree = "<group>"; };
+		B0A6DCBB8443EE7B05BE7AFC /* Pods_TriviaGeek.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TriviaGeek.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D915BE9D21CB3CDA00F40112 /* GameResultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameResultsViewController.swift; sourceTree = "<group>"; };
 		D9167D6A21DC3C82008AF3A0 /* CustomFonts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomFonts.swift; sourceTree = "<group>"; };
 		D9292B8D21C886F800065BB9 /* AnswerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnswerViewController.swift; sourceTree = "<group>"; };
+		D9305EEC2234AD15004637C3 /* Comets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Comets.swift; sourceTree = "<group>"; };
 		D9708FA421DBE12A0057836C /* LiquidCrystal-LightItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "LiquidCrystal-LightItalic.otf"; path = "TriviaGeek/New Group/LiquidCrystal-LightItalic.otf"; sourceTree = SOURCE_ROOT; };
 		D9708FA521DBE1360057836C /* ParryHotter.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = ParryHotter.ttf; path = "TriviaGeek/New Group/ParryHotter.ttf"; sourceTree = SOURCE_ROOT; };
 		D9708FA621DBE1360057836C /* GameOfThrones.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = GameOfThrones.ttf; path = "TriviaGeek/New Group/GameOfThrones.ttf"; sourceTree = SOURCE_ROOT; };
@@ -63,12 +69,33 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				98F0C319086F4300939AABF8 /* Pods_TriviaGeek.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		541BD2C1554967C715263335 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				B0A6DCBB8443EE7B05BE7AFC /* Pods_TriviaGeek.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D9305EEE2234B761004637C3 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				D915BE9D21CB3CDA00F40112 /* GameResultsViewController.swift */,
+				F22E18E5217BAE3000D0D3CB /* ViewController.swift */,
+				D9292B8D21C886F800065BB9 /* AnswerViewController.swift */,
+				F2D2F2BA2187DBE40068A44C /* CategoryViewController.swift */,
+				F23C52CC218EC4F7005D6BF6 /* QuestionViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
 		D9708FA721DBE13F0057836C /* Fonts */ = {
 			isa = PBXGroup;
 			children = (
@@ -86,6 +113,8 @@
 			children = (
 				F22E18E2217BAE3000D0D3CB /* TriviaGeek */,
 				F22E18E1217BAE3000D0D3CB /* Products */,
+				F8CF28D6708ED22C78F5CE5C /* Pods */,
+				541BD2C1554967C715263335 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -100,16 +129,13 @@
 		F22E18E2217BAE3000D0D3CB /* TriviaGeek */ = {
 			isa = PBXGroup;
 			children = (
+				D9305EEE2234B761004637C3 /* Controllers */,
 				F22E18E3217BAE3000D0D3CB /* AppDelegate.swift */,
 				F22E18FE217BAF0600D0D3CB /* ConvertJSON.swift */,
 				F22E1900217BB10500D0D3CB /* Questions.swift */,
 				F22E18E7217BAE3000D0D3CB /* Main.storyboard */,
 				D9167D6A21DC3C82008AF3A0 /* CustomFonts.swift */,
-				D915BE9D21CB3CDA00F40112 /* GameResultsViewController.swift */,
-				D9292B8D21C886F800065BB9 /* AnswerViewController.swift */,
-				F2D2F2BA2187DBE40068A44C /* CategoryViewController.swift */,
-				F23C52CC218EC4F7005D6BF6 /* QuestionViewController.swift */,
-				F22E18E5217BAE3000D0D3CB /* ViewController.swift */,
+				D9305EEC2234AD15004637C3 /* Comets.swift */,
 				F22E1902217BBEBA00D0D3CB /* Teams.swift */,
 				D9708FA721DBE13F0057836C /* Fonts */,
 				F22E18EA217BAE3200D0D3CB /* Assets.xcassets */,
@@ -131,6 +157,15 @@
 			path = Data;
 			sourceTree = "<group>";
 		};
+		F8CF28D6708ED22C78F5CE5C /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				1F6A539312C56A5B6608CF5C /* Pods-TriviaGeek.debug.xcconfig */,
+				A6C94073C1826A9A3FF2E8A1 /* Pods-TriviaGeek.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -138,9 +173,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = F22E18F2217BAE3200D0D3CB /* Build configuration list for PBXNativeTarget "TriviaGeek" */;
 			buildPhases = (
+				B1824D87207DD2E06096B686 /* [CP] Check Pods Manifest.lock */,
 				F22E18DC217BAE3000D0D3CB /* Sources */,
 				F22E18DD217BAE3000D0D3CB /* Frameworks */,
 				F22E18DE217BAE3000D0D3CB /* Resources */,
+				3298B5F079E9F6783403B4DE /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -206,12 +243,60 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		3298B5F079E9F6783403B4DE /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-TriviaGeek/Pods-TriviaGeek-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Comets/Comets.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Comets.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-TriviaGeek/Pods-TriviaGeek-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B1824D87207DD2E06096B686 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-TriviaGeek-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		F22E18DC217BAE3000D0D3CB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				F22E18E6217BAE3000D0D3CB /* ViewController.swift in Sources */,
+				D9305EED2234AD15004637C3 /* Comets.swift in Sources */,
 				F22E1903217BBEBA00D0D3CB /* Teams.swift in Sources */,
 				F23C52CD218EC4F7005D6BF6 /* QuestionViewController.swift in Sources */,
 				F22E1901217BB10500D0D3CB /* Questions.swift in Sources */,
@@ -362,12 +447,13 @@
 		};
 		F22E18F3217BAE3200D0D3CB /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1F6A539312C56A5B6608CF5C /* Pods-TriviaGeek.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 82G9R7QR7M;
 				INFOPLIST_FILE = TriviaGeek/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -381,12 +467,13 @@
 		};
 		F22E18F4217BAE3200D0D3CB /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A6C94073C1826A9A3FF2E8A1 /* Pods-TriviaGeek.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 82G9R7QR7M;
 				INFOPLIST_FILE = TriviaGeek/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

@@ -25,6 +25,7 @@ class CategoryViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        startComets(view: view)
         submitBtnLabel.isHidden = true
         
         // styling Harry Potter button

@@ -14,6 +14,7 @@ class AnswerViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        startComets(view: view)
         let questionCategory = questionsToAnswer[currentQuestion].category
         teamLabel.text = teams[currentTeam].teamName
         categoryLabel.text = questionsToAnswer[currentQuestion].category

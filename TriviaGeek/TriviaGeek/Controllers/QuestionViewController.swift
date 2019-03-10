@@ -20,6 +20,7 @@ class QuestionViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        startComets(view: view)
         let questionCategory = questionsToAnswer[currentQuestion].category
         categoryLabel.text = questionCategory
         questionLabel.text = questionsToAnswer[currentQuestion].question

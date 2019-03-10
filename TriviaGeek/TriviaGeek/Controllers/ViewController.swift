@@ -1,4 +1,5 @@
 import UIKit
+import Comets
 
 class ViewController: UIViewController, UITextFieldDelegate {
      // added for dismissing the keyboard when touching outside of the keyboard or text field - requires UITextFieldDelegate
@@ -57,6 +58,8 @@ class ViewController: UIViewController, UITextFieldDelegate {
         super.viewDidLoad()
         enterTeamName.delegate = self
         chooseCategoryLabel.isHidden = true
+        
+        startComets(view: view)
     }
     
     override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {

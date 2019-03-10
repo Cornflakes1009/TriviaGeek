@@ -1,0 +1,16 @@
+PODS:
+  - Comets (0.2.1)
+
+DEPENDENCIES:
+  - Comets
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Comets
+
+SPEC CHECKSUMS:
+  Comets: 3ef4bca8ecdf76e9389ef2feb8c89f9690df3387
+
+PODFILE CHECKSUM: 450221813785369310e38f1f619dee6073c2baf8
+
+COCOAPODS: 1.6.1
