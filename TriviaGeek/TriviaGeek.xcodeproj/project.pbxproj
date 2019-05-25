@@ -10,6 +10,7 @@
 		98F0C319086F4300939AABF8 /* Pods_TriviaGeek.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B0A6DCBB8443EE7B05BE7AFC /* Pods_TriviaGeek.framework */; };
 		D915BE9E21CB3CDA00F40112 /* GameResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D915BE9D21CB3CDA00F40112 /* GameResultsViewController.swift */; };
 		D9167D6B21DC3C82008AF3A0 /* CustomFonts.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9167D6A21DC3C82008AF3A0 /* CustomFonts.swift */; };
+		D926500A2259A24C0074E7E6 /* RulesAndCreditsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D92650092259A24C0074E7E6 /* RulesAndCreditsViewController.swift */; };
 		D9292B8E21C886F800065BB9 /* AnswerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9292B8D21C886F800065BB9 /* AnswerViewController.swift */; };
 		D9305EED2234AD15004637C3 /* Comets.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9305EEC2234AD15004637C3 /* Comets.swift */; };
 		D9708FA821DBE7210057836C /* LiquidCrystal-LightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = D9708FA421DBE12A0057836C /* LiquidCrystal-LightItalic.otf */; };
@@ -39,6 +40,7 @@
 		B0A6DCBB8443EE7B05BE7AFC /* Pods_TriviaGeek.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TriviaGeek.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D915BE9D21CB3CDA00F40112 /* GameResultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameResultsViewController.swift; sourceTree = "<group>"; };
 		D9167D6A21DC3C82008AF3A0 /* CustomFonts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomFonts.swift; sourceTree = "<group>"; };
+		D92650092259A24C0074E7E6 /* RulesAndCreditsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = RulesAndCreditsViewController.swift; path = Controllers/RulesAndCreditsViewController.swift; sourceTree = "<group>"; };
 		D9292B8D21C886F800065BB9 /* AnswerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnswerViewController.swift; sourceTree = "<group>"; };
 		D9305EEC2234AD15004637C3 /* Comets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Comets.swift; sourceTree = "<group>"; };
 		D9708FA421DBE12A0057836C /* LiquidCrystal-LightItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "LiquidCrystal-LightItalic.otf"; path = "TriviaGeek/New Group/LiquidCrystal-LightItalic.otf"; sourceTree = SOURCE_ROOT; };
@@ -50,7 +52,7 @@
 		F22E18E3217BAE3000D0D3CB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F22E18E5217BAE3000D0D3CB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		F22E18E8217BAE3000D0D3CB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		F22E18EA217BAE3200D0D3CB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F22E18EA217BAE3200D0D3CB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = TriviaGeek/Assets.xcassets; sourceTree = SOURCE_ROOT; };
 		F22E18ED217BAE3200D0D3CB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F22E18EF217BAE3200D0D3CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F22E18F5217BAE4400D0D3CB /* comicBookMovieTriviaQuestions.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = comicBookMovieTriviaQuestions.json; sourceTree = "<group>"; };
@@ -134,6 +136,7 @@
 				F22E18FE217BAF0600D0D3CB /* ConvertJSON.swift */,
 				F22E1900217BB10500D0D3CB /* Questions.swift */,
 				F22E18E7217BAE3000D0D3CB /* Main.storyboard */,
+				D92650092259A24C0074E7E6 /* RulesAndCreditsViewController.swift */,
 				D9167D6A21DC3C82008AF3A0 /* CustomFonts.swift */,
 				D9305EEC2234AD15004637C3 /* Comets.swift */,
 				F22E1902217BBEBA00D0D3CB /* Teams.swift */,
@@ -200,6 +203,7 @@
 				TargetAttributes = {
 					F22E18DF217BAE3000D0D3CB = {
 						CreatedOnToolsVersion = 9.3;
+						LastSwiftMigration = 1010;
 					};
 				};
 			};
@@ -296,6 +300,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F22E18E6217BAE3000D0D3CB /* ViewController.swift in Sources */,
+				D926500A2259A24C0074E7E6 /* RulesAndCreditsViewController.swift in Sources */,
 				D9305EED2234AD15004637C3 /* Comets.swift in Sources */,
 				F22E1903217BBEBA00D0D3CB /* Teams.swift in Sources */,
 				F23C52CD218EC4F7005D6BF6 /* QuestionViewController.swift in Sources */,
@@ -460,7 +465,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.harolddavidson.TriviaGeek;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -480,7 +485,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.harolddavidson.TriviaGeek;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;

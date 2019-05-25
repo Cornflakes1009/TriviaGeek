@@ -29,15 +29,15 @@ class CategoryViewController: UIViewController {
         submitBtnLabel.isHidden = true
         
         // styling Harry Potter button
-        harryPotterCategoryLabel.titleEdgeInsets = UIEdgeInsetsMake(10, 0, 0, 0)
+        harryPotterCategoryLabel.titleEdgeInsets = UIEdgeInsets.init(top: 10, left: 0, bottom: 0, right: 0)
         setBorder(on: harryPotterCategoryLabel)
 
         // styling Star Wars button
         setBorder(on: starWarsCategoryLabel)
-        starWarsCategoryLabel.titleEdgeInsets = UIEdgeInsetsMake(0, 0, 7, 0)
+        starWarsCategoryLabel.titleEdgeInsets = UIEdgeInsets.init(top: 0, left: 0, bottom: 7, right: 0)
         
         // styling Comic Book Movies button
-        comicBookMoviesCategoryLabel.titleEdgeInsets = UIEdgeInsetsMake(5, 0, 0, 0)
+        comicBookMoviesCategoryLabel.titleEdgeInsets = UIEdgeInsets.init(top: 5, left: 0, bottom: 0, right: 0)
         
         //////// disabling buttons until I get more JSON
         comicBookMoviesCategoryLabel.isEnabled = true
