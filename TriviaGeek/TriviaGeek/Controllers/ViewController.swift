@@ -58,7 +58,8 @@ class ViewController: UIViewController, UITextFieldDelegate {
         super.viewDidLoad()
         enterTeamName.delegate = self
         chooseCategoryLabel.isHidden = true
-        
+        // adjusting the font for various view ports
+        chooseCategoryLabel.titleLabel?.adjustsFontSizeToFitWidth = true
         startComets(view: view)
     }
     

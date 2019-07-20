@@ -43,6 +43,8 @@ class CategoryViewController: UIViewController {
         comicBookMoviesCategoryLabel.isEnabled = true
         gameOfThronesCategoryLabel.isEnabled = true
         
+        gameOfThronesCategoryLabel.titleLabel?.adjustsFontSizeToFitWidth = true
+        
     }
     
     override func didReceiveMemoryWarning() {
